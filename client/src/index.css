@@ -1,0 +1,93 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  box-sizing: border-box;
+  margin: 0px;
+  /* font-family: "Helvetica", "Arial", sans-serif; */
+}
+
+:root {
+  line-height: 1.5;
+  font-weight: 400;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+
+  --primary-color: #2e073f;
+  --secondary-color: #7a1cac;
+  /* --primary-color: #AD49E1; */
+  --section-color: #ebd3f8;
+}
+
+/* slider css  */
+.swiper {
+  width: 100%;
+  padding-top: 60px !important;
+  padding-bottom: 60px !important;
+}
+
+.swiper-slide {
+  width: 800px !important;
+  height: 600px !important;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+.swiper-slide img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 50px;
+}
+
+.profileModal {
+  transition: width 2s;
+  transition-duration: 2s;
+  transform-origin: right;
+}
+
+.modal_active {
+  width: 250px;
+}
+
+.modal_inactive {
+  width: 0px;
+}
+
+.product_item > div > img {
+  transition: all 0.5s;
+  transition-duration: 0.5s;
+  transform: scale(1);
+}
+
+.product_item:hover > div img {
+  transition: all 0.5s;
+  transition-duration: 0.5s;
+  transform: scale(1.1);
+}
+
+.quantity_input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+}
+
+.sidebar_active {
+  transition: all 0.5s;
+  transition-duration: 0.5s;
+  transform: translateX(0px);
+}
+
+.sidebar_inactive {
+  width: 0%;
+  transition: all 0.5s;
+  transition-duration: 0.5s;
+  transform: translateX(-183px);
+}
+
+.order {
+  background: black;
+}
