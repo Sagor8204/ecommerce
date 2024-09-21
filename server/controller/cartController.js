@@ -82,6 +82,7 @@ const addCart = async (req, res, next) => {
 // add qunatity to the cart of speacific product cart
 const addQuantityInCart = async (req, res, next) => {
   const { productId, quantity } = req.body;
+
   try {
     const cart = await Cart.findOne({ user: req.user._id });
     const product = await Product.findOne({ _id: productId });

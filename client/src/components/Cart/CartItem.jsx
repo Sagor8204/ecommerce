@@ -3,10 +3,9 @@ import { FaPlus } from "react-icons/fa6";
 import { FaMinus } from "react-icons/fa6";
 import axiosSource from "../Axios/axios";
 import { MdDelete } from "react-icons/md";
-import { fetchCart } from "../Axios/apiRequest";
 import { useAuth } from "../../contexts/AuthContext";
 
-const CartItem = ({ item }) => {
+const CartItem = ({ item, refetch }) => {
   const { setMessage } = useAuth();
   const { quantity, productId } = item;
   const [pQuantity, setPQuantity] = useState(quantity);
@@ -24,13 +23,13 @@ const CartItem = ({ item }) => {
   }, []);
 
   const handleDecrement = () => {
-    if (pQuantity >= 0) {
-      setPQuantity(pQuantity - 1);
+    if (quantity >= 0) {
       axiosSource
         .patch("/cart/minus-quantity", { productId, quantity: 1 })
         .then((res) => {
           if (res.data) {
-            fetchCart();
+            console.log("success");
+            refetch();
           }
         })
         .catch((err) => console.log(err.response.data));
@@ -38,10 +37,14 @@ const CartItem = ({ item }) => {
   };
 
   const handleIncrement = () => {
-    setPQuantity(pQuantity + 1);
     axiosSource
       .patch("/cart/add-quantity", { productId, quantity: 1 })
-      .then((res) => console.log(res.data))
+      .then((res) => {
+        if (res.data) {
+          console.log("success");
+          refetch();
+        }
+      })
       .catch((err) => console.log(err.response.data));
   };
 
@@ -51,6 +54,7 @@ const CartItem = ({ item }) => {
       .then((res) => {
         if (res.data) {
           setMessage(res.data.message);
+          refetch();
         }
       })
       .catch((err) => {
@@ -84,12 +88,7 @@ const CartItem = ({ item }) => {
         >
           <FaMinus className="cursor-pointer text-[13px]" />
         </button>
-        <input
-          className="bg-transparent outline-none w-6 text-center"
-          type="text"
-          value={pQuantity}
-          onChange={(e) => setPQuantity(e.target.value)}
-        />
+        <span>{quantity}</span>
         <button
           onClick={handleIncrement}
           className="p-2 hover:bg-gray-300 rounded-lg"

@@ -1,17 +1,9 @@
-import React, { useEffect, useState } from "react";
+import React from "react";
 import CartItem from "./CartItem";
-import { fetchCart } from "../Axios/apiRequest";
+import useCart from "../Axios/useCart";
 
 const Cart = () => {
-  const [cart, setCart] = useState({});
-
-  useEffect(() => {
-    const getData = async () => {
-      const data = await fetchCart();
-      setCart(data);
-    };
-    getData();
-  }, []);
+  const [refetch, cart] = useCart();
 
   return (
     <div className="h-screen mt-[62px] bg-[#373a36]">
@@ -25,7 +17,7 @@ const Cart = () => {
           </div>
           <div>
             {cart?.items?.map((item) => {
-              return <CartItem key={item?._id} item={item} />;
+              return <CartItem refetch={refetch} key={item?._id} item={item} />;
             })}
           </div>
 

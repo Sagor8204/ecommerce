@@ -1,7 +1,7 @@
 import React from "react";
 import ReactImageMagnify from "react-image-magnify";
 
-const ZoomImage = ({ src, alt }) => {
+const ZoomImage = ({ ImageUrl, alt }) => {
   return (
     <div className="w-[300px] mx-auto">
       <ReactImageMagnify
@@ -9,10 +9,10 @@ const ZoomImage = ({ src, alt }) => {
           smallImage: {
             alt: alt,
             isFluidWidth: true, // Allows the small image to be fluid (responsive)
-            src: src,
+            src: ImageUrl,
           },
           largeImage: {
-            src: src,
+            src: ImageUrl,
             width: 1200, // Width of the large image for zoom
             height: 1000, // Height of the large image for zoom
           },

@@ -44,7 +44,7 @@ const ProductInfo = ({ product }) => {
     <div className="flex gap-9 w-[870px]">
       {/* product image */}
       <div className="w-1/2">
-        <ZoomImage src={product?.image} alt="product_image" />
+        <ZoomImage ImageUrl={product?.image} alt="product_image" />
       </div>
 
       {/* product information */}
