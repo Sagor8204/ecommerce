@@ -1,0 +1,5635 @@
+[
+  {
+    "name": "Yamaha MT-15",
+    "brand": "yamaha",
+    "category": "bike",
+    "subCategory": "Naked Bikes",
+    "price": 500000,
+    "quantity": 1,
+    "colors": ["black"],
+    "ratings": {
+      "averageRating": 4.5,
+      "reviewCount": 10
+    },
+    "description": [
+      "Yamaha MT-15 is a 155cc, Fuel-Injected, Single Cylinder, Liquid Cooled",
+      "14",
+      "70 NM @ 8500",
+      "00 RPM",
+      "It gives around 130 Kmph (Approx)",
+      "Front Brake 282 Mm, Rear Brake 220 Mm",
+      "Top premium bike in bangladesh"
+    ],
+    "productIdentifiers": {
+      "sku": "MT15-2024",
+      "upc": "123456789012",
+      "ean": "4007891234567"
+    },
+    "productKeyFeatures": [
+      "6-speed manual transmission",
+      "Dual disc brakes",
+      "Single-cylinder engine",
+      "Fuel injection system"
+    ],
+    "additionalProductFeatures": [
+      "Fully digital instrument cluster",
+      "Assist and slipper clutch",
+      "Bi-functional LED headlight"
+    ],
+    "images": [
+      "https://www.motorcyclebd.com/images/bikes/Yamaha-MT-125-Black.jpg"
+    ]
+  },
+  {
+    "name": "2024 Nike Air Jordan 1 Retro Low OG SP Travis Scott Medium Olive DM7866-200 4-14",
+    "brand": "Jordan",
+    "category": "Footwear",
+    "subCategory": "Men's Sneakers",
+    "price": 5790,
+    "images": ["./images/athletic1.webp"],
+    "quantity": 50,
+    "description": [
+      "Iconic Design: Recognized for their bold and unique designs, combining performance and streetwear style inspired by Michael Jordan's legendary career.",
+      "Premium Materials: Constructed with high-quality leather, synthetic materials, and breathable mesh for durability and comfort.",
+      "Responsive Cushioning: Equipped with Nike Air or Zoom Air technology for superior cushioning and impact protection during activity."
+    ],
+    "colors": ["black", "blue", "white"],
+    "sizes": ["11", "12"]
+  },
+  {
+    "name": "Size 11 - Travis Scott x Air Jordan 1 OG SP Low Medium Olive",
+    "category": "athletic",
+    "subCategory": "djkfjdkj",
+    "price": "579.99",
+    "images": "./images/athletic2.webp",
+    "description": [],
+    "quantity": "1",
+    "sizes": ["11"],
+    "condition": "New with box: A brand-new, unused, and unworn item (including handmade items) in the original ...",
+    "brand": "Jordan",
+    "showSaftStyle": "Low Top",
+    "styleCode": "DM7866-200",
+    "department": "Men",
+    "type": "Athletic",
+    "releaseYear": "2024",
+    "model": "Air Jordan1 Low",
+    "style": "Sneaker",
+    "silhouette": "Jordan 1 Retro Low",
+    "productLine": "Air Jordan",
+    "stock": "10",
+    "indentifiers": {
+      "brand": "Jordan",
+      "styleCode": "DM7866-200",
+      "model": "Air Jordan 1",
+      "eBayProductId": "11066000359"
+    },
+    "keyFeatures": [
+      {
+        "Upper Material": "Suede"
+      },
+      {
+        "Type": "Athletic"
+      },
+      {
+        "ShowShaftStyle": "Low Top"
+      },
+      {
+        "Style": "Sneaker"
+      },
+      {
+        "Product Line": "Air Jordan"
+      },
+      {
+        "Color": [
+          {
+            "name": "Green",
+            "hex": "#008000"
+          }
+        ]
+      },
+      {
+        "UsShoeSize": "11"
+      },
+      {
+        "Department": "Men"
+      }
+    ],
+    "additionalFeatures": [
+      {
+        "releaseDate": "20240929"
+      },
+      {
+        "nickname": "Medium Olive"
+      },
+      {
+        "fullmodel": "Travis Scott x Air Jordan 1 OG SP"
+      },
+      {
+        "manufactureColor": [
+          {
+            "name": "Medium Olive",
+            "hex": "#6e6e30"
+          },
+          {
+            "name": "Medium Black",
+            "hex": "#4d4d4d"
+          },
+          {
+            "name": "Medium Sail",
+            "hex": "#A5F2F3"
+          },
+          {
+            "name": "Medium Muslin",
+            "hex": "#E8E4C9"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "2024 Nike Air Jordan 1 Retro Low OG SP Travis Scott Medium Olive DM7866-200 4-14",
+    "brand": "Jordan",
+    "category": "Footwear",
+    "subCategory": "Men's Sneakers",
+    "price": 5790,
+    "images": ["./images/athletic3.webp"],
+    "quantity": 50,
+    "description": [
+      "Iconic Design: Recognized for their bold and unique designs, combining performance and streetwear style inspired by Michael Jordan's legendary career.",
+      "Premium Materials: Constructed with high-quality leather, synthetic materials, and breathable mesh for durability and comfort.",
+      "Responsive Cushioning: Equipped with Nike Air or Zoom Air technology for superior cushioning and impact protection during activity."
+    ],
+    "colors": ["black", "blue", "white"],
+    "sizes": ["11", "12"]
+  },
+  {
+    "name": "Size 11 - Travis Scott x Air Jordan 1 OG SP Low Medium Olive",
+    "brand": "Jordan",
+    "category": "Footwear",
+    "subCategory": "Men's Sneakers",
+    "price": 5790,
+    "images": ["./images/athletic4.webp"],
+    "quantity": 50,
+    "description": [
+      "Iconic Design: Recognized for their bold and unique designs, combining performance and streetwear style inspired by Michael Jordan's legendary career.",
+      "Premium Materials: Constructed with high-quality leather, synthetic materials, and breathable mesh for durability and comfort.",
+      "Responsive Cushioning: Equipped with Nike Air or Zoom Air technology for superior cushioning and impact protection during activity."
+    ],
+    "colors": ["black", "blue", "green"],
+    "sizes": ["10", "11", "12"]
+  },
+  {
+    "name": "2024 Nike Air Jordan 1 Retro Low OG SP Travis Scott Medium Olive DM7866-200 4-14",
+    "brand": "Jordan",
+    "category": "Footwear",
+    "subCategory": "Men's Sneakers",
+    "price": 5790,
+    "images": ["./images/athletic5.webp"],
+    "quantity": 50,
+    "description": [
+      "Iconic Design: Recognized for their bold and unique designs, combining performance and streetwear style inspired by Michael Jordan's legendary career.",
+      "Premium Materials: Constructed with high-quality leather, synthetic materials, and breathable mesh for durability and comfort.",
+      "Responsive Cushioning: Equipped with Nike Air or Zoom Air technology for superior cushioning and impact protection during activity."
+    ],
+    "colors": ["black", "blue", "white"],
+    "sizes": ["9", "10", "11", "12"]
+  },
+  {
+    "name": "Size 11 - Travis Scott x Air Jordan 1 OG SP Low Medium Olive",
+    "brand": "Jordan",
+    "category": "Footwear",
+    "subCategory": "Men's Sneakers",
+    "price": 5790,
+    "images": ["./images/athletic6.webp"],
+    "quantity": 50,
+    "description": [
+      "Iconic Design: Recognized for their bold and unique designs, combining performance and streetwear style inspired by Michael Jordan's legendary career.",
+      "Premium Materials: Constructed with high-quality leather, synthetic materials, and breathable mesh for durability and comfort.",
+      "Responsive Cushioning: Equipped with Nike Air or Zoom Air technology for superior cushioning and impact protection during activity."
+    ],
+    "colors": ["black", "blue", "white"],
+    "sizes": ["11", "12"]
+  },
+  {
+    "name": "2024 Nike Air Jordan 1 Retro Low OG SP Travis Scott Medium Olive DM7866-200 4-14",
+    "brand": "Jordan",
+    "category": "Footwear",
+    "subCategory": "Men's Sneakers",
+    "price": 5790,
+    "images": ["./images/athletic7.webp"],
+    "quantity": 50,
+    "description": [
+      "Iconic Design: Recognized for their bold and unique designs, combining performance and streetwear style inspired by Michael Jordan's legendary career.",
+      "Premium Materials: Constructed with high-quality leather, synthetic materials, and breathable mesh for durability and comfort.",
+      "Responsive Cushioning: Equipped with Nike Air or Zoom Air technology for superior cushioning and impact protection during activity."
+    ],
+    "colors": ["black", "blue", "white"],
+    "sizes": ["11", "12"]
+  },
+  {
+    "name": "Size 11 - Travis Scott x Air Jordan 1 OG SP Low Medium Olive",
+    "brand": "Jordan",
+    "category": "Footwear",
+    "subCategory": "Men's Sneakers",
+    "price": 5790,
+    "images": ["./images/athletic8.webp"],
+    "quantity": 50,
+    "description": [
+      "Iconic Design: Recognized for their bold and unique designs, combining performance and streetwear style inspired by Michael Jordan's legendary career.",
+      "Premium Materials: Constructed with high-quality leather, synthetic materials, and breathable mesh for durability and comfort.",
+      "Responsive Cushioning: Equipped with Nike Air or Zoom Air technology for superior cushioning and impact protection during activity."
+    ],
+    "colors": ["black", "blue", "white"],
+    "sizes": ["11", "12"]
+  },
+  {
+    "name": "Travis Scott X Air Jordan 1 Low OG Medium Olive Size 12 DM7866-200 NEW PREORDER",
+    "category": "trending-sneakers",
+    "subCategory": "djkfjdkj",
+    "price": "579.99",
+    "description": [],
+    "images": "./images/trend1.webp",
+    "quantity": "1",
+    "sizes": ["11"],
+    "condition": "New with box: A brand-new, unused, and unworn item (including handmade items) in the original ...",
+    "brand": "Jordan",
+    "showSaftStyle": "Low Top",
+    "styleCode": "DM7866-200",
+    "department": "Men",
+    "type": "Athletic",
+    "releaseYear": "2024",
+    "model": "Air Jordan1 Low",
+    "style": "Sneaker",
+    "silhouette": "Jordan 1 Retro Low",
+    "productLine": "Air Jordan",
+    "stock": "10"
+  },
+  {
+    "name": "Brand new Jordan 1 Low Black Toe Size 7Y",
+    "category": "trending-sneakers",
+    "subCategory": "djkfjdkj",
+    "price": "579.99",
+    "images": "./images/trend2.webp",
+    "description": [],
+    "quantity": "1",
+    "sizes": ["11"],
+    "condition": "New with box: A brand-new, unused, and unworn item (including handmade items) in the original ...",
+    "brand": "Jordan",
+    "showSaftStyle": "Low Top",
+    "styleCode": "DM7866-200",
+    "department": "Men",
+    "type": "Athletic",
+    "releaseYear": "2024",
+    "model": "Air Jordan1 Low",
+    "style": "Sneaker",
+    "silhouette": "Jordan 1 Retro Low",
+    "productLine": "Air Jordan",
+    "stock": "10",
+    "indentifiers": {
+      "brand": "Jordan",
+      "styleCode": "DM7866-200",
+      "model": "Air Jordan 1",
+      "eBayProductId": "11066000359"
+    },
+    "keyFeatures": [
+      {
+        "Upper Material": "Suede"
+      },
+      {
+        "Type": "Athletic"
+      },
+      {
+        "ShowShaftStyle": "Low Top"
+      },
+      {
+        "Style": "Sneaker"
+      },
+      {
+        "Product Line": "Air Jordan"
+      },
+      {
+        "Color": [
+          {
+            "name": "Green",
+            "hex": "#008000"
+          }
+        ]
+      },
+      {
+        "UsShoeSize": "11"
+      },
+      {
+        "Department": "Men"
+      }
+    ],
+    "additionalFeatures": [
+      {
+        "releaseDate": "20240929"
+      },
+      {
+        "nickname": "Medium Olive"
+      },
+      {
+        "fullmodel": "Travis Scott x Air Jordan 1 OG SP"
+      },
+      {
+        "manufactureColor": [
+          {
+            "name": "Medium Olive",
+            "hex": "#6e6e30"
+          },
+          {
+            "name": "Medium Black",
+            "hex": "#4d4d4d"
+          },
+          {
+            "name": "Medium Sail",
+            "hex": "#A5F2F3"
+          },
+          {
+            "name": "Medium Muslin",
+            "hex": "#E8E4C9"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Brand new Jordan 1 Low Black Toe Size 7Y",
+    "category": "trending-sneakers",
+    "subCategory": "djkfjdkj",
+    "price": "579.99",
+    "images": "./images/trend3.webp",
+    "description": [],
+    "quantity": "1",
+    "sizes": ["11"],
+    "condition": "New with box: A brand-new, unused, and unworn item (including handmade items) in the original ...",
+    "brand": "Jordan",
+    "showSaftStyle": "Low Top",
+    "styleCode": "DM7866-200",
+    "department": "Men",
+    "type": "Athletic",
+    "releaseYear": "2024",
+    "model": "Air Jordan1 Low",
+    "style": "Sneaker",
+    "silhouette": "Jordan 1 Retro Low",
+    "productLine": "Air Jordan",
+    "stock": "10"
+  },
+  {
+    "name": "Size 9.5- Nike Off-White x Air Force 1 SP Leather Mid Pine Green SALE",
+    "category": "trending-sneakers",
+    "subCategory": "djkfjdkj",
+    "price": "579.99",
+    "images": "./images/trend4.webp",
+    "description": [],
+    "quantity": "1",
+    "sizes": ["11"],
+    "condition": "New with box: A brand-new, unused, and unworn item (including handmade items) in the original ...",
+    "brand": "Jordan",
+    "showSaftStyle": "Low Top",
+    "styleCode": "DM7866-200",
+    "department": "Men",
+    "type": "Athletic",
+    "releaseYear": "2024",
+    "model": "Air Jordan1 Low",
+    "style": "Sneaker",
+    "silhouette": "Jordan 1 Retro Low",
+    "productLine": "Air Jordan",
+    "stock": "10",
+    "indentifiers": {
+      "brand": "Jordan",
+      "styleCode": "DM7866-200",
+      "model": "Air Jordan 1",
+      "eBayProductId": "11066000359"
+    },
+    "keyFeatures": [
+      {
+        "Upper Material": "Suede"
+      },
+      {
+        "Type": "Athletic"
+      },
+      {
+        "ShowShaftStyle": "Low Top"
+      },
+      {
+        "Style": "Sneaker"
+      },
+      {
+        "Product Line": "Air Jordan"
+      },
+      {
+        "Color": [
+          {
+            "name": "Green",
+            "hex": "#008000"
+          }
+        ]
+      },
+      {
+        "UsShoeSize": "11"
+      },
+      {
+        "Department": "Men"
+      }
+    ],
+    "additionalFeatures": [
+      {
+        "releaseDate": "20240929"
+      },
+      {
+        "nickname": "Medium Olive"
+      },
+      {
+        "fullmodel": "Travis Scott x Air Jordan 1 OG SP"
+      },
+      {
+        "manufactureColor": [
+          {
+            "name": "Medium Olive",
+            "hex": "#6e6e30"
+          },
+          {
+            "name": "Medium Black",
+            "hex": "#4d4d4d"
+          },
+          {
+            "name": "Medium Sail",
+            "hex": "#A5F2F3"
+          },
+          {
+            "name": "Medium Muslin",
+            "hex": "#E8E4C9"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Size 10.5 - Travis Scott x Air Jordan 1 OG SP Low Medium Olive",
+    "category": "trending-sneakers",
+    "subCategory": "djkfjdkj",
+    "price": "579.99",
+    "images": "./images/trend5.webp",
+    "description": [],
+    "quantity": "1",
+    "sizes": ["11"],
+    "condition": "New with box: A brand-new, unused, and unworn item (including handmade items) in the original ...",
+    "brand": "Jordan",
+    "showSaftStyle": "Low Top",
+    "styleCode": "DM7866-200",
+    "department": "Men",
+    "type": "Athletic",
+    "releaseYear": "2024",
+    "model": "Air Jordan1 Low",
+    "style": "Sneaker",
+    "silhouette": "Jordan 1 Retro Low",
+    "productLine": "Air Jordan",
+    "stock": "10"
+  },
+  {
+    "name": "1203A566 100 ASICS Gel-Kayano 14 Kith Cream Scarab",
+    "category": "trending-sneakers",
+    "subCategory": "djkfjdkj",
+    "price": "579.99",
+    "images": "./images/trend6.webp",
+    "description": [],
+    "quantity": "1",
+    "sizes": ["11"],
+    "condition": "New with box: A brand-new, unused, and unworn item (including handmade items) in the original ...",
+    "brand": "Jordan",
+    "showSaftStyle": "Low Top",
+    "styleCode": "DM7866-200",
+    "department": "Men",
+    "type": "Athletic",
+    "releaseYear": "2024",
+    "model": "Air Jordan1 Low",
+    "style": "Sneaker",
+    "silhouette": "Jordan 1 Retro Low",
+    "productLine": "Air Jordan",
+    "stock": "10",
+    "indentifiers": {
+      "brand": "Jordan",
+      "styleCode": "DM7866-200",
+      "model": "Air Jordan 1",
+      "eBayProductId": "11066000359"
+    },
+    "keyFeatures": [
+      {
+        "Upper Material": "Suede"
+      },
+      {
+        "Type": "Athletic"
+      },
+      {
+        "ShowShaftStyle": "Low Top"
+      },
+      {
+        "Style": "Sneaker"
+      },
+      {
+        "Product Line": "Air Jordan"
+      },
+      {
+        "Color": [
+          {
+            "name": "Green",
+            "hex": "#008000"
+          }
+        ]
+      },
+      {
+        "UsShoeSize": "11"
+      },
+      {
+        "Department": "Men"
+      }
+    ],
+    "additionalFeatures": [
+      {
+        "releaseDate": "20240929"
+      },
+      {
+        "nickname": "Medium Olive"
+      },
+      {
+        "fullmodel": "Travis Scott x Air Jordan 1 OG SP"
+      },
+      {
+        "manufactureColor": [
+          {
+            "name": "Medium Olive",
+            "hex": "#6e6e30"
+          },
+          {
+            "name": "Medium Black",
+            "hex": "#4d4d4d"
+          },
+          {
+            "name": "Medium Sail",
+            "hex": "#A5F2F3"
+          },
+          {
+            "name": "Medium Muslin",
+            "hex": "#E8E4C9"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Air Jordan 3 Retro Black Cement Reimagined 2024 Style # DN3707-010 Size 12",
+    "category": "trending-sneakers",
+    "subCategory": "djkfjdkj",
+    "price": "579.99",
+    "images": "./images/trend7.webp",
+    "description": [],
+    "quantity": "1",
+    "sizes": ["11"],
+    "condition": "New with box: A brand-new, unused, and unworn item (including handmade items) in the original ...",
+    "brand": "Jordan",
+    "showSaftStyle": "Low Top",
+    "styleCode": "DM7866-200",
+    "department": "Men",
+    "type": "Athletic",
+    "releaseYear": "2024",
+    "model": "Air Jordan1 Low",
+    "style": "Sneaker",
+    "silhouette": "Jordan 1 Retro Low",
+    "productLine": "Air Jordan",
+    "stock": "10"
+  },
+  {
+    "name": "Size 11 - Air Jordan 4 Retro 2004 Classic Green - PRE OWNED",
+    "category": "trending-sneakers",
+    "subCategory": "djkfjdkj",
+    "price": "579.99",
+    "images": "./images/trend8.webp",
+    "description": [],
+    "quantity": "1",
+    "sizes": ["11"],
+    "condition": "New with box: A brand-new, unused, and unworn item (including handmade items) in the original ...",
+    "brand": "Jordan",
+    "showSaftStyle": "Low Top",
+    "styleCode": "DM7866-200",
+    "department": "Men",
+    "type": "Athletic",
+    "releaseYear": "2024",
+    "model": "Air Jordan1 Low",
+    "style": "Sneaker",
+    "silhouette": "Jordan 1 Retro Low",
+    "productLine": "Air Jordan",
+    "stock": "10",
+    "indentifiers": {
+      "brand": "Jordan",
+      "styleCode": "DM7866-200",
+      "model": "Air Jordan 1",
+      "eBayProductId": "11066000359"
+    },
+    "keyFeatures": [
+      {
+        "Upper Material": "Suede"
+      },
+      {
+        "Type": "Athletic"
+      },
+      {
+        "ShowShaftStyle": "Low Top"
+      },
+      {
+        "Style": "Sneaker"
+      },
+      {
+        "Product Line": "Air Jordan"
+      },
+      {
+        "Color": [
+          {
+            "name": "Green",
+            "hex": "#008000"
+          }
+        ]
+      },
+      {
+        "UsShoeSize": "11"
+      },
+      {
+        "Department": "Men"
+      }
+    ],
+    "additionalFeatures": [
+      {
+        "releaseDate": "20240929"
+      },
+      {
+        "nickname": "Medium Olive"
+      },
+      {
+        "fullmodel": "Travis Scott x Air Jordan 1 OG SP"
+      },
+      {
+        "manufactureColor": [
+          {
+            "name": "Medium Olive",
+            "hex": "#6e6e30"
+          },
+          {
+            "name": "Medium Black",
+            "hex": "#4d4d4d"
+          },
+          {
+            "name": "Medium Sail",
+            "hex": "#A5F2F3"
+          },
+          {
+            "name": "Medium Muslin",
+            "hex": "#E8E4C9"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "adidas ID1447 Samba OG 'Cream White Preloved Brown' Ship Now",
+    "category": "trending-sneakers",
+    "subCategory": "djkfjdkj",
+    "price": "579.99",
+    "images": "./images/trend9.webp",
+    "description": [],
+    "quantity": "1",
+    "sizes": ["11"],
+    "condition": "New with box: A brand-new, unused, and unworn item (including handmade items) in the original ...",
+    "brand": "Jordan",
+    "showSaftStyle": "Low Top",
+    "styleCode": "DM7866-200",
+    "department": "Men",
+    "type": "Athletic",
+    "releaseYear": "2024",
+    "model": "Air Jordan1 Low",
+    "style": "Sneaker",
+    "silhouette": "Jordan 1 Retro Low",
+    "productLine": "Air Jordan",
+    "stock": "10"
+  },
+  {
+    "name": "Size 11 - Air Jordan 4 Retro 2004 Classic Green - PRE OWNED",
+    "category": "trending-sneakers",
+    "subCategory": "djkfjdkj",
+    "price": "579.99",
+    "images": "./images/trend10.webp",
+    "description": [],
+    "quantity": "1",
+    "sizes": ["11"],
+    "condition": "New with box: A brand-new, unused, and unworn item (including handmade items) in the original ...",
+    "brand": "Jordan",
+    "showSaftStyle": "Low Top",
+    "styleCode": "DM7866-200",
+    "department": "Men",
+    "type": "Athletic",
+    "releaseYear": "2024",
+    "model": "Air Jordan1 Low",
+    "style": "Sneaker",
+    "silhouette": "Jordan 1 Retro Low",
+    "productLine": "Air Jordan",
+    "stock": "10",
+    "indentifiers": {
+      "brand": "Jordan",
+      "styleCode": "DM7866-200",
+      "model": "Air Jordan 1",
+      "eBayProductId": "11066000359"
+    },
+    "keyFeatures": [
+      {
+        "Upper Material": "Suede"
+      },
+      {
+        "Type": "Athletic"
+      },
+      {
+        "ShowShaftStyle": "Low Top"
+      },
+      {
+        "Style": "Sneaker"
+      },
+      {
+        "Product Line": "Air Jordan"
+      },
+      {
+        "Color": [
+          {
+            "name": "Green",
+            "hex": "#008000"
+          }
+        ]
+      },
+      {
+        "UsShoeSize": "11"
+      },
+      {
+        "Department": "Men"
+      }
+    ],
+    "additionalFeatures": [
+      {
+        "releaseDate": "20240929"
+      },
+      {
+        "nickname": "Medium Olive"
+      },
+      {
+        "fullmodel": "Travis Scott x Air Jordan 1 OG SP"
+      },
+      {
+        "manufactureColor": [
+          {
+            "name": "Medium Olive",
+            "hex": "#6e6e30"
+          },
+          {
+            "name": "Medium Black",
+            "hex": "#4d4d4d"
+          },
+          {
+            "name": "Medium Sail",
+            "hex": "#A5F2F3"
+          },
+          {
+            "name": "Medium Muslin",
+            "hex": "#E8E4C9"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "adidas ID1447 Samba OG 'Cream White Preloved Brown' Ship Now",
+    "category": "watch",
+    "subCategory": "djkfjdkj",
+    "price": "579.99",
+    "images": "./images/watch1.webp",
+    "description": [],
+    "quantity": "1",
+    "sizes": ["11"],
+    "condition": "New with box: A brand-new, unused, and unworn item (including handmade items) in the original ...",
+    "brand": "Jordan",
+    "showSaftStyle": "Low Top",
+    "styleCode": "DM7866-200",
+    "department": "Men",
+    "type": "Athletic",
+    "releaseYear": "2024",
+    "model": "Air Jordan1 Low",
+    "style": "Sneaker",
+    "silhouette": "Jordan 1 Retro Low",
+    "productLine": "Air Jordan",
+    "stock": "10"
+  },
+  {
+    "name": "Size 11 - Air Jordan 4 Retro 2004 Classic Green - PRE OWNED",
+    "category": "watch",
+    "subCategory": "djkfjdkj",
+    "price": "579.99",
+    "images": "./images/watch2.webp",
+    "description": [],
+    "quantity": "1",
+    "sizes": ["11"],
+    "condition": "New with box: A brand-new, unused, and unworn item (including handmade items) in the original ...",
+    "brand": "Jordan",
+    "showSaftStyle": "Low Top",
+    "styleCode": "DM7866-200",
+    "department": "Men",
+    "type": "Athletic",
+    "releaseYear": "2024",
+    "model": "Air Jordan1 Low",
+    "style": "Sneaker",
+    "silhouette": "Jordan 1 Retro Low",
+    "productLine": "Air Jordan",
+    "stock": "10",
+    "indentifiers": {
+      "brand": "Jordan",
+      "styleCode": "DM7866-200",
+      "model": "Air Jordan 1",
+      "eBayProductId": "11066000359"
+    },
+    "keyFeatures": [
+      {
+        "Upper Material": "Suede"
+      },
+      {
+        "Type": "Athletic"
+      },
+      {
+        "ShowShaftStyle": "Low Top"
+      },
+      {
+        "Style": "Sneaker"
+      },
+      {
+        "Product Line": "Air Jordan"
+      },
+      {
+        "Color": [
+          {
+            "name": "Green",
+            "hex": "#008000"
+          }
+        ]
+      },
+      {
+        "UsShoeSize": "11"
+      },
+      {
+        "Department": "Men"
+      }
+    ],
+    "additionalFeatures": [
+      {
+        "releaseDate": "20240929"
+      },
+      {
+        "nickname": "Medium Olive"
+      },
+      {
+        "fullmodel": "Travis Scott x Air Jordan 1 OG SP"
+      },
+      {
+        "manufactureColor": [
+          {
+            "name": "Medium Olive",
+            "hex": "#6e6e30"
+          },
+          {
+            "name": "Medium Black",
+            "hex": "#4d4d4d"
+          },
+          {
+            "name": "Medium Sail",
+            "hex": "#A5F2F3"
+          },
+          {
+            "name": "Medium Muslin",
+            "hex": "#E8E4C9"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "adidas ID1447 Samba OG 'Cream White Preloved Brown' Ship Now",
+    "category": "watch",
+    "subCategory": "djkfjdkj",
+    "price": "579.99",
+    "images": "./images/watch3.webp",
+    "description": [],
+    "quantity": "1",
+    "sizes": ["11"],
+    "condition": "New with box: A brand-new, unused, and unworn item (including handmade items) in the original ...",
+    "brand": "Jordan",
+    "showSaftStyle": "Low Top",
+    "styleCode": "DM7866-200",
+    "department": "Men",
+    "type": "Athletic",
+    "releaseYear": "2024",
+    "model": "Air Jordan1 Low",
+    "style": "Sneaker",
+    "silhouette": "Jordan 1 Retro Low",
+    "productLine": "Air Jordan",
+    "stock": "10"
+  },
+  {
+    "name": "Size 11 - Air Jordan 4 Retro 2004 Classic Green - PRE OWNED",
+    "category": "watch",
+    "subCategory": "djkfjdkj",
+    "price": "579.99",
+    "images": "./images/watch4.webp",
+    "description": [],
+    "quantity": "1",
+    "sizes": ["11"],
+    "condition": "New with box: A brand-new, unused, and unworn item (including handmade items) in the original ...",
+    "brand": "Jordan",
+    "showSaftStyle": "Low Top",
+    "styleCode": "DM7866-200",
+    "department": "Men",
+    "type": "Athletic",
+    "releaseYear": "2024",
+    "model": "Air Jordan1 Low",
+    "style": "Sneaker",
+    "silhouette": "Jordan 1 Retro Low",
+    "productLine": "Air Jordan",
+    "stock": "10",
+    "indentifiers": {
+      "brand": "Jordan",
+      "styleCode": "DM7866-200",
+      "model": "Air Jordan 1",
+      "eBayProductId": "11066000359"
+    },
+    "keyFeatures": [
+      {
+        "Upper Material": "Suede"
+      },
+      {
+        "Type": "Athletic"
+      },
+      {
+        "ShowShaftStyle": "Low Top"
+      },
+      {
+        "Style": "Sneaker"
+      },
+      {
+        "Product Line": "Air Jordan"
+      },
+      {
+        "Color": [
+          {
+            "name": "Green",
+            "hex": "#008000"
+          }
+        ]
+      },
+      {
+        "UsShoeSize": "11"
+      },
+      {
+        "Department": "Men"
+      }
+    ],
+    "additionalFeatures": [
+      {
+        "releaseDate": "20240929"
+      },
+      {
+        "nickname": "Medium Olive"
+      },
+      {
+        "fullmodel": "Travis Scott x Air Jordan 1 OG SP"
+      },
+      {
+        "manufactureColor": [
+          {
+            "name": "Medium Olive",
+            "hex": "#6e6e30"
+          },
+          {
+            "name": "Medium Black",
+            "hex": "#4d4d4d"
+          },
+          {
+            "name": "Medium Sail",
+            "hex": "#A5F2F3"
+          },
+          {
+            "name": "Medium Muslin",
+            "hex": "#E8E4C9"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "adidas ID1447 Samba OG 'Cream White Preloved Brown' Ship Now",
+    "category": "watch",
+    "subCategory": "djkfjdkj",
+    "price": "579.99",
+    "images": "./images/watch5.webp",
+    "description": [],
+    "quantity": "1",
+    "sizes": ["11"],
+    "condition": "New with box: A brand-new, unused, and unworn item (including handmade items) in the original ...",
+    "brand": "Jordan",
+    "showSaftStyle": "Low Top",
+    "styleCode": "DM7866-200",
+    "department": "Men",
+    "type": "Athletic",
+    "releaseYear": "2024",
+    "model": "Air Jordan1 Low",
+    "style": "Sneaker",
+    "silhouette": "Jordan 1 Retro Low",
+    "productLine": "Air Jordan",
+    "stock": "10"
+  },
+  {
+    "name": "Size 11 - Air Jordan 4 Retro 2004 Classic Green - PRE OWNED",
+    "category": "watch",
+    "subCategory": "djkfjdkj",
+    "price": "579.99",
+    "images": "./images/watch6.webp",
+    "description": [],
+    "quantity": "1",
+    "sizes": ["11"],
+    "condition": "New with box: A brand-new, unused, and unworn item (including handmade items) in the original ...",
+    "brand": "Jordan",
+    "showSaftStyle": "Low Top",
+    "styleCode": "DM7866-200",
+    "department": "Men",
+    "type": "Athletic",
+    "releaseYear": "2024",
+    "model": "Air Jordan1 Low",
+    "style": "Sneaker",
+    "silhouette": "Jordan 1 Retro Low",
+    "productLine": "Air Jordan",
+    "stock": "10",
+    "indentifiers": {
+      "brand": "Jordan",
+      "styleCode": "DM7866-200",
+      "model": "Air Jordan 1",
+      "eBayProductId": "11066000359"
+    },
+    "keyFeatures": [
+      {
+        "Upper Material": "Suede"
+      },
+      {
+        "Type": "Athletic"
+      },
+      {
+        "ShowShaftStyle": "Low Top"
+      },
+      {
+        "Style": "Sneaker"
+      },
+      {
+        "Product Line": "Air Jordan"
+      },
+      {
+        "Color": [
+          {
+            "name": "Green",
+            "hex": "#008000"
+          }
+        ]
+      },
+      {
+        "UsShoeSize": "11"
+      },
+      {
+        "Department": "Men"
+      }
+    ],
+    "additionalFeatures": [
+      {
+        "releaseDate": "20240929"
+      },
+      {
+        "nickname": "Medium Olive"
+      },
+      {
+        "fullmodel": "Travis Scott x Air Jordan 1 OG SP"
+      },
+      {
+        "manufactureColor": [
+          {
+            "name": "Medium Olive",
+            "hex": "#6e6e30"
+          },
+          {
+            "name": "Medium Black",
+            "hex": "#4d4d4d"
+          },
+          {
+            "name": "Medium Sail",
+            "hex": "#A5F2F3"
+          },
+          {
+            "name": "Medium Muslin",
+            "hex": "#E8E4C9"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "adidas ID1447 Samba OG 'Cream White Preloved Brown' Ship Now",
+    "category": "watch",
+    "subCategory": "djkfjdkj",
+    "price": "579.99",
+    "images": "./images/watch7.webp",
+    "description": [],
+    "quantity": "1",
+    "sizes": ["11"],
+    "condition": "New with box: A brand-new, unused, and unworn item (including handmade items) in the original ...",
+    "brand": "Jordan",
+    "showSaftStyle": "Low Top",
+    "styleCode": "DM7866-200",
+    "department": "Men",
+    "type": "Athletic",
+    "releaseYear": "2024",
+    "model": "Air Jordan1 Low",
+    "style": "Sneaker",
+    "silhouette": "Jordan 1 Retro Low",
+    "productLine": "Air Jordan",
+    "stock": "10"
+  },
+  {
+    "name": "Size 11 - Air Jordan 4 Retro 2004 Classic Green - PRE OWNED",
+    "category": "watch",
+    "subCategory": "djkfjdkj",
+    "price": "579.99",
+    "images": "./images/watch8.webp",
+    "description": [],
+    "quantity": "1",
+    "sizes": ["11"],
+    "condition": "New with box: A brand-new, unused, and unworn item (including handmade items) in the original ...",
+    "brand": "Jordan",
+    "showSaftStyle": "Low Top",
+    "styleCode": "DM7866-200",
+    "department": "Men",
+    "type": "Athletic",
+    "releaseYear": "2024",
+    "model": "Air Jordan1 Low",
+    "style": "Sneaker",
+    "silhouette": "Jordan 1 Retro Low",
+    "productLine": "Air Jordan",
+    "stock": "10",
+    "indentifiers": {
+      "brand": "Jordan",
+      "styleCode": "DM7866-200",
+      "model": "Air Jordan 1",
+      "eBayProductId": "11066000359"
+    },
+    "keyFeatures": [
+      {
+        "Upper Material": "Suede"
+      },
+      {
+        "Type": "Athletic"
+      },
+      {
+        "ShowShaftStyle": "Low Top"
+      },
+      {
+        "Style": "Sneaker"
+      },
+      {
+        "Product Line": "Air Jordan"
+      },
+      {
+        "Color": [
+          {
+            "name": "Green",
+            "hex": "#008000"
+          }
+        ]
+      },
+      {
+        "UsShoeSize": "11"
+      },
+      {
+        "Department": "Men"
+      }
+    ],
+    "additionalFeatures": [
+      {
+        "releaseDate": "20240929"
+      },
+      {
+        "nickname": "Medium Olive"
+      },
+      {
+        "fullmodel": "Travis Scott x Air Jordan 1 OG SP"
+      },
+      {
+        "manufactureColor": [
+          {
+            "name": "Medium Olive",
+            "hex": "#6e6e30"
+          },
+          {
+            "name": "Medium Black",
+            "hex": "#4d4d4d"
+          },
+          {
+            "name": "Medium Sail",
+            "hex": "#A5F2F3"
+          },
+          {
+            "name": "Medium Muslin",
+            "hex": "#E8E4C9"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "adidas ID1447 Samba OG 'Cream White Preloved Brown' Ship Now",
+    "category": "watch",
+    "subCategory": "djkfjdkj",
+    "price": "579.99",
+    "images": "./images/watch9.webp",
+    "description": [],
+    "quantity": "1",
+    "sizes": ["11"],
+    "condition": "New with box: A brand-new, unused, and unworn item (including handmade items) in the original ...",
+    "brand": "Jordan",
+    "showSaftStyle": "Low Top",
+    "styleCode": "DM7866-200",
+    "department": "Men",
+    "type": "Athletic",
+    "releaseYear": "2024",
+    "model": "Air Jordan1 Low",
+    "style": "Sneaker",
+    "silhouette": "Jordan 1 Retro Low",
+    "productLine": "Air Jordan",
+    "stock": "10"
+  },
+  {
+    "name": "Size 11 - Air Jordan 4 Retro 2004 Classic Green - PRE OWNED",
+    "category": "watch",
+    "subCategory": "djkfjdkj",
+    "price": "579.99",
+    "images": "./images/watch10.webp",
+    "description": [],
+    "quantity": "1",
+    "sizes": ["11"],
+    "condition": "New with box: A brand-new, unused, and unworn item (including handmade items) in the original ...",
+    "brand": "Jordan",
+    "showSaftStyle": "Low Top",
+    "styleCode": "DM7866-200",
+    "department": "Men",
+    "type": "Athletic",
+    "releaseYear": "2024",
+    "model": "Air Jordan1 Low",
+    "style": "Sneaker",
+    "silhouette": "Jordan 1 Retro Low",
+    "productLine": "Air Jordan",
+    "stock": "10",
+    "indentifiers": {
+      "brand": "Jordan",
+      "styleCode": "DM7866-200",
+      "model": "Air Jordan 1",
+      "eBayProductId": "11066000359"
+    },
+    "keyFeatures": [
+      {
+        "Upper Material": "Suede"
+      },
+      {
+        "Type": "Athletic"
+      },
+      {
+        "ShowShaftStyle": "Low Top"
+      },
+      {
+        "Style": "Sneaker"
+      },
+      {
+        "Product Line": "Air Jordan"
+      },
+      {
+        "Color": [
+          {
+            "name": "Green",
+            "hex": "#008000"
+          }
+        ]
+      },
+      {
+        "UsShoeSize": "11"
+      },
+      {
+        "Department": "Men"
+      }
+    ],
+    "additionalFeatures": [
+      {
+        "releaseDate": "20240929"
+      },
+      {
+        "nickname": "Medium Olive"
+      },
+      {
+        "fullmodel": "Travis Scott x Air Jordan 1 OG SP"
+      },
+      {
+        "manufactureColor": [
+          {
+            "name": "Medium Olive",
+            "hex": "#6e6e30"
+          },
+          {
+            "name": "Medium Black",
+            "hex": "#4d4d4d"
+          },
+          {
+            "name": "Medium Sail",
+            "hex": "#A5F2F3"
+          },
+          {
+            "name": "Medium Muslin",
+            "hex": "#E8E4C9"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Kobe 8 Protro September Drops",
+    "category": "trending-kicks",
+    "subCategory": "djkfjdkj",
+    "price": "579.99",
+    "images": "./images/trend-kicks1.webp",
+    "description": [],
+    "quantity": "1",
+    "sizes": ["11"],
+    "condition": "New with box: A brand-new, unused, and unworn item (including handmade items) in the original ...",
+    "brand": "Jordan",
+    "showSaftStyle": "Low Top",
+    "styleCode": "DM7866-200",
+    "department": "Men",
+    "type": "Athletic",
+    "releaseYear": "2024",
+    "model": "Air Jordan1 Low",
+    "style": "Sneaker",
+    "silhouette": "Jordan 1 Retro Low",
+    "productLine": "Air Jordan",
+    "stock": "10"
+  },
+  {
+    "name": "Jordan 4 Retro White Thunder",
+    "category": "trending-kicks",
+    "subCategory": "djkfjdkj",
+    "price": "579.99",
+    "images": "./images/trend-kicks2.webp",
+    "description": [],
+    "quantity": "1",
+    "sizes": ["11"],
+    "condition": "New with box: A brand-new, unused, and unworn item (including handmade items) in the original ...",
+    "brand": "Jordan",
+    "showSaftStyle": "Low Top",
+    "styleCode": "DM7866-200",
+    "department": "Men",
+    "type": "Athletic",
+    "releaseYear": "2024",
+    "model": "Air Jordan1 Low",
+    "style": "Sneaker",
+    "silhouette": "Jordan 1 Retro Low",
+    "productLine": "Air Jordan",
+    "stock": "10",
+    "indentifiers": {
+      "brand": "Jordan",
+      "styleCode": "DM7866-200",
+      "model": "Air Jordan 1",
+      "eBayProductId": "11066000359"
+    },
+    "keyFeatures": [
+      {
+        "Upper Material": "Suede"
+      },
+      {
+        "Type": "Athletic"
+      },
+      {
+        "ShowShaftStyle": "Low Top"
+      },
+      {
+        "Style": "Sneaker"
+      },
+      {
+        "Product Line": "Air Jordan"
+      },
+      {
+        "Color": [
+          {
+            "name": "Green",
+            "hex": "#008000"
+          }
+        ]
+      },
+      {
+        "UsShoeSize": "11"
+      },
+      {
+        "Department": "Men"
+      }
+    ],
+    "additionalFeatures": [
+      {
+        "releaseDate": "20240929"
+      },
+      {
+        "nickname": "Medium Olive"
+      },
+      {
+        "fullmodel": "Travis Scott x Air Jordan 1 OG SP"
+      },
+      {
+        "manufactureColor": [
+          {
+            "name": "Medium Olive",
+            "hex": "#6e6e30"
+          },
+          {
+            "name": "Medium Black",
+            "hex": "#4d4d4d"
+          },
+          {
+            "name": "Medium Sail",
+            "hex": "#A5F2F3"
+          },
+          {
+            "name": "Medium Muslin",
+            "hex": "#E8E4C9"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Jordan 4 Paris Olympics Wet Cement",
+    "category": "trending-kicks",
+    "subCategory": "djkfjdkj",
+    "price": "579.99",
+    "images": "./images/trend-kicks3.webp",
+    "description": [],
+    "quantity": "1",
+    "sizes": ["11"],
+    "condition": "New with box: A brand-new, unused, and unworn item (including handmade items) in the original ...",
+    "brand": "Nike",
+    "showSaftStyle": "Low Top",
+    "styleCode": "DM7866-200",
+    "department": "Men",
+    "type": "Athletic",
+    "releaseYear": "2024",
+    "model": "Air Jordan1 Low",
+    "style": "Sneaker",
+    "silhouette": "Jordan 1 Retro Low",
+    "productLine": "Air Jordan",
+    "stock": "10"
+  },
+  {
+    "name": "A Ma Maniére x Jordan 3 While You Were Sleeping WMNS",
+    "category": "trending-kicks",
+    "subCategory": "djkfjdkj",
+    "price": "579.99",
+    "images": "./images/trend-kicks4.webp",
+    "description": [],
+    "quantity": "1",
+    "sizes": ["11"],
+    "condition": "New with box: A brand-new, unused, and unworn item (including handmade items) in the original ...",
+    "brand": "Jordan",
+    "showSaftStyle": "Low Top",
+    "styleCode": "DM7866-200",
+    "department": "Men",
+    "type": "Athletic",
+    "releaseYear": "2024",
+    "model": "Air Jordan1 Low",
+    "style": "Sneaker",
+    "silhouette": "Jordan 1 Retro Low",
+    "productLine": "Air Jordan",
+    "stock": "10",
+    "indentifiers": {
+      "brand": "Jordan",
+      "styleCode": "DM7866-200",
+      "model": "Air Jordan 1",
+      "eBayProductId": "11066000359"
+    },
+    "keyFeatures": [
+      {
+        "Upper Material": "Suede"
+      },
+      {
+        "Type": "Athletic"
+      },
+      {
+        "ShowShaftStyle": "Low Top"
+      },
+      {
+        "Style": "Sneaker"
+      },
+      {
+        "Product Line": "Air Jordan"
+      },
+      {
+        "Color": [
+          {
+            "name": "Green",
+            "hex": "#008000"
+          }
+        ]
+      },
+      {
+        "UsShoeSize": "11"
+      },
+      {
+        "Department": "Men"
+      }
+    ],
+    "additionalFeatures": [
+      {
+        "releaseDate": "20240929"
+      },
+      {
+        "nickname": "Medium Olive"
+      },
+      {
+        "fullmodel": "Travis Scott x Air Jordan 1 OG SP"
+      },
+      {
+        "manufactureColor": [
+          {
+            "name": "Medium Olive",
+            "hex": "#6e6e30"
+          },
+          {
+            "name": "Medium Black",
+            "hex": "#4d4d4d"
+          },
+          {
+            "name": "Medium Sail",
+            "hex": "#A5F2F3"
+          },
+          {
+            "name": "Medium Muslin",
+            "hex": "#E8E4C9"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Reebok BB4000 2 x Alien Romulus",
+    "category": "trending-kicks",
+    "subCategory": "djkfjdkj",
+    "price": "579.99",
+    "images": "./images/trend-kicks5.webp",
+    "description": [],
+    "quantity": "1",
+    "sizes": ["11"],
+    "condition": "New with box: A brand-new, unused, and unworn item (including handmade items) in the original ...",
+    "brand": "Jordan",
+    "showSaftStyle": "Low Top",
+    "styleCode": "DM7866-200",
+    "department": "Men",
+    "type": "Athletic",
+    "releaseYear": "2024",
+    "model": "Air Jordan1 Low",
+    "style": "Sneaker",
+    "silhouette": "Jordan 1 Retro Low",
+    "productLine": "Air Jordan",
+    "stock": "10"
+  },
+  {
+    "name": "Jordan 4 Retro Military Blue 2024",
+    "category": "trending-kicks",
+    "subCategory": "djkfjdkj",
+    "price": "579.99",
+    "images": "./images/trend-kicks6.webp",
+    "description": [],
+    "quantity": "1",
+    "sizes": ["11"],
+    "condition": "New with box: A brand-new, unused, and unworn item (including handmade items) in the original ...",
+    "brand": "Jordan",
+    "showSaftStyle": "Low Top",
+    "styleCode": "DM7866-200",
+    "department": "Men",
+    "type": "Athletic",
+    "releaseYear": "2024",
+    "model": "Air Jordan1 Low",
+    "style": "Sneaker",
+    "silhouette": "Jordan 1 Retro Low",
+    "productLine": "Air Jordan",
+    "stock": "10",
+    "indentifiers": {
+      "brand": "Jordan",
+      "styleCode": "DM7866-200",
+      "model": "Air Jordan 1",
+      "eBayProductId": "11066000359"
+    },
+    "keyFeatures": [
+      {
+        "Upper Material": "Suede"
+      },
+      {
+        "Type": "Athletic"
+      },
+      {
+        "ShowShaftStyle": "Low Top"
+      },
+      {
+        "Style": "Sneaker"
+      },
+      {
+        "Product Line": "Air Jordan"
+      },
+      {
+        "Color": [
+          {
+            "name": "Green",
+            "hex": "#008000"
+          }
+        ]
+      },
+      {
+        "UsShoeSize": "11"
+      },
+      {
+        "Department": "Men"
+      }
+    ],
+    "additionalFeatures": [
+      {
+        "releaseDate": "20240929"
+      },
+      {
+        "nickname": "Medium Olive"
+      },
+      {
+        "fullmodel": "Travis Scott x Air Jordan 1 OG SP"
+      },
+      {
+        "manufactureColor": [
+          {
+            "name": "Medium Olive",
+            "hex": "#6e6e30"
+          },
+          {
+            "name": "Medium Black",
+            "hex": "#4d4d4d"
+          },
+          {
+            "name": "Medium Sail",
+            "hex": "#A5F2F3"
+          },
+          {
+            "name": "Medium Muslin",
+            "hex": "#E8E4C9"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Jordan 1 Retro High OG Lost and Found",
+    "category": "trending-kicks",
+    "subCategory": "djkfjdkj",
+    "price": "579.99",
+    "images": "./images/trend-kicks7.webp",
+    "description": [],
+    "quantity": "1",
+    "sizes": ["11"],
+    "condition": "New with box: A brand-new, unused, and unworn item (including handmade items) in the original ...",
+    "brand": "Jordan",
+    "showSaftStyle": "Low Top",
+    "styleCode": "DM7866-200",
+    "department": "Men",
+    "type": "Athletic",
+    "releaseYear": "2024",
+    "model": "Air Jordan1 Low",
+    "style": "Sneaker",
+    "silhouette": "Jordan 1 Retro Low",
+    "productLine": "Air Jordan",
+    "stock": "10"
+  },
+  {
+    "name": "Size 11 - Air Jordan 4 Retro 2004 Classic Green - PRE OWNED",
+    "category": "refurbished",
+    "subCategory": "djkfjdkj",
+    "price": "579.99",
+    "images": "./images/refurbished1.webp",
+    "description": [],
+    "quantity": "1",
+    "sizes": ["11"],
+    "condition": "New with box: A brand-new, unused, and unworn item (including handmade items) in the original ...",
+    "brand": "Jordan",
+    "showSaftStyle": "Low Top",
+    "styleCode": "DM7866-200",
+    "department": "Men",
+    "type": "Athletic",
+    "releaseYear": "2024",
+    "model": "Air Jordan1 Low",
+    "style": "Sneaker",
+    "silhouette": "Jordan 1 Retro Low",
+    "productLine": "Air Jordan",
+    "stock": "10",
+    "indentifiers": {
+      "brand": "Jordan",
+      "styleCode": "DM7866-200",
+      "model": "Air Jordan 1",
+      "eBayProductId": "11066000359"
+    },
+    "keyFeatures": [
+      {
+        "Upper Material": "Suede"
+      },
+      {
+        "Type": "Athletic"
+      },
+      {
+        "ShowShaftStyle": "Low Top"
+      },
+      {
+        "Style": "Sneaker"
+      },
+      {
+        "Product Line": "Air Jordan"
+      },
+      {
+        "Color": [
+          {
+            "name": "Green",
+            "hex": "#008000"
+          }
+        ]
+      },
+      {
+        "UsShoeSize": "11"
+      },
+      {
+        "Department": "Men"
+      }
+    ],
+    "additionalFeatures": [
+      {
+        "releaseDate": "20240929"
+      },
+      {
+        "nickname": "Medium Olive"
+      },
+      {
+        "fullmodel": "Travis Scott x Air Jordan 1 OG SP"
+      },
+      {
+        "manufactureColor": [
+          {
+            "name": "Medium Olive",
+            "hex": "#6e6e30"
+          },
+          {
+            "name": "Medium Black",
+            "hex": "#4d4d4d"
+          },
+          {
+            "name": "Medium Sail",
+            "hex": "#A5F2F3"
+          },
+          {
+            "name": "Medium Muslin",
+            "hex": "#E8E4C9"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "adidas ID1447 Samba OG 'Cream White Preloved Brown' Ship Now",
+    "category": "refurbished",
+    "subCategory": "djkfjdkj",
+    "price": "579.99",
+    "images": "./images/refurbished2.webp",
+    "description": [],
+    "quantity": "1",
+    "sizes": ["11"],
+    "condition": "New with box: A brand-new, unused, and unworn item (including handmade items) in the original ...",
+    "brand": "Jordan",
+    "showSaftStyle": "Low Top",
+    "styleCode": "DM7866-200",
+    "department": "Men",
+    "type": "Athletic",
+    "releaseYear": "2024",
+    "model": "Air Jordan1 Low",
+    "style": "Sneaker",
+    "silhouette": "Jordan 1 Retro Low",
+    "productLine": "Air Jordan",
+    "stock": "10"
+  },
+  {
+    "name": "Size 11 - Air Jordan 4 Retro 2004 Classic Green - PRE OWNED",
+    "category": "refurbished",
+    "subCategory": "djkfjdkj",
+    "price": "579.99",
+    "images": "./images/refurbished3.webp",
+    "description": [],
+    "quantity": "1",
+    "sizes": ["11"],
+    "condition": "New with box: A brand-new, unused, and unworn item (including handmade items) in the original ...",
+    "brand": "Jordan",
+    "showSaftStyle": "Low Top",
+    "styleCode": "DM7866-200",
+    "department": "Men",
+    "type": "Athletic",
+    "releaseYear": "2024",
+    "model": "Air Jordan1 Low",
+    "style": "Sneaker",
+    "silhouette": "Jordan 1 Retro Low",
+    "productLine": "Air Jordan",
+    "stock": "10",
+    "indentifiers": {
+      "brand": "Jordan",
+      "styleCode": "DM7866-200",
+      "model": "Air Jordan 1",
+      "eBayProductId": "11066000359"
+    },
+    "keyFeatures": [
+      {
+        "Upper Material": "Suede"
+      },
+      {
+        "Type": "Athletic"
+      },
+      {
+        "ShowShaftStyle": "Low Top"
+      },
+      {
+        "Style": "Sneaker"
+      },
+      {
+        "Product Line": "Air Jordan"
+      },
+      {
+        "Color": [
+          {
+            "name": "Green",
+            "hex": "#008000"
+          }
+        ]
+      },
+      {
+        "UsShoeSize": "11"
+      },
+      {
+        "Department": "Men"
+      }
+    ],
+    "additionalFeatures": [
+      {
+        "releaseDate": "20240929"
+      },
+      {
+        "nickname": "Medium Olive"
+      },
+      {
+        "fullmodel": "Travis Scott x Air Jordan 1 OG SP"
+      },
+      {
+        "manufactureColor": [
+          {
+            "name": "Medium Olive",
+            "hex": "#6e6e30"
+          },
+          {
+            "name": "Medium Black",
+            "hex": "#4d4d4d"
+          },
+          {
+            "name": "Medium Sail",
+            "hex": "#A5F2F3"
+          },
+          {
+            "name": "Medium Muslin",
+            "hex": "#E8E4C9"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Kobe 8 Protro September Drops",
+    "category": "refurbished",
+    "subCategory": "djkfjdkj",
+    "price": "579.99",
+    "images": "./images/refurbished4.webp",
+    "description": [],
+    "quantity": "1",
+    "sizes": ["11"],
+    "condition": "New with box: A brand-new, unused, and unworn item (including handmade items) in the original ...",
+    "brand": "Adidas",
+    "showSaftStyle": "Low Top",
+    "styleCode": "DM7866-200",
+    "department": "Men",
+    "type": "Athletic",
+    "releaseYear": "2024",
+    "model": "Air Jordan1 Low",
+    "style": "Sneaker",
+    "silhouette": "Jordan 1 Retro Low",
+    "productLine": "Air Jordan",
+    "stock": "10"
+  },
+  {
+    "name": "Jordan 4 Retro White Thunder",
+    "category": "refurbished",
+    "subCategory": "djkfjdkj",
+    "price": "579.99",
+    "images": "./images/refurbished5.webp",
+    "description": [],
+    "quantity": "1",
+    "sizes": ["13"],
+    "condition": "New with box: A brand-new, unused, and unworn item (including handmade items) in the original ...",
+    "brand": "Jordan",
+    "showSaftStyle": "Low Top",
+    "styleCode": "DM7866-200",
+    "department": "Men",
+    "type": "Athletic",
+    "releaseYear": "2024",
+    "model": "Air Jordan1 Low",
+    "style": "Sneaker",
+    "silhouette": "Jordan 1 Retro Low",
+    "productLine": "Air Jordan",
+    "stock": "10",
+    "indentifiers": {
+      "brand": "Jordan",
+      "styleCode": "DM7866-200",
+      "model": "Air Jordan 1",
+      "eBayProductId": "11066000359"
+    },
+    "keyFeatures": [
+      {
+        "Upper Material": "Suede"
+      },
+      {
+        "Type": "Athletic"
+      },
+      {
+        "ShowShaftStyle": "Low Top"
+      },
+      {
+        "Style": "Sneaker"
+      },
+      {
+        "Product Line": "Air Jordan"
+      },
+      {
+        "Color": [
+          {
+            "name": "Green",
+            "hex": "#008000"
+          }
+        ]
+      },
+      {
+        "UsShoeSize": "11"
+      },
+      {
+        "Department": "Men"
+      }
+    ],
+    "additionalFeatures": [
+      {
+        "releaseDate": "20240929"
+      },
+      {
+        "nickname": "Medium Olive"
+      },
+      {
+        "fullmodel": "Travis Scott x Air Jordan 1 OG SP"
+      },
+      {
+        "manufactureColor": [
+          {
+            "name": "Medium Olive",
+            "hex": "#6e6e30"
+          },
+          {
+            "name": "Medium Black",
+            "hex": "#4d4d4d"
+          },
+          {
+            "name": "Medium Sail",
+            "hex": "#A5F2F3"
+          },
+          {
+            "name": "Medium Muslin",
+            "hex": "#E8E4C9"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Jordan 4 Paris Olympics Wet Cement",
+    "category": "refurbished",
+    "subCategory": "djkfjdkj",
+    "price": "579.99",
+    "images": "./images/refurbished6.webp",
+    "description": [],
+    "quantity": "1",
+    "sizes": ["11"],
+    "condition": "New with box: A brand-new, unused, and unworn item (including handmade items) in the original ...",
+    "brand": "Jordan",
+    "showSaftStyle": "Low Top",
+    "styleCode": "DM7866-200",
+    "department": "Men",
+    "type": "Athletic",
+    "releaseYear": "2024",
+    "model": "Air Jordan1 Low",
+    "style": "Sneaker",
+    "silhouette": "Jordan 1 Retro Low",
+    "productLine": "Air Jordan",
+    "stock": "10"
+  },
+  {
+    "name": "A Ma Maniére x Jordan 3 While You Were Sleeping WMNS",
+    "category": "refurbished",
+    "subCategory": "djkfjdkj",
+    "price": "579.99",
+    "images": "./images/refurbished7.webp",
+    "description": [],
+    "quantity": "1",
+    "sizes": ["11"],
+    "condition": "New with box: A brand-new, unused, and unworn item (including handmade items) in the original ...",
+    "brand": "Jordan",
+    "showSaftStyle": "Low Top",
+    "styleCode": "DM7866-200",
+    "department": "Men",
+    "type": "Athletic",
+    "releaseYear": "2024",
+    "model": "Air Jordan1 Low",
+    "style": "Sneaker",
+    "silhouette": "Jordan 1 Retro Low",
+    "productLine": "Air Jordan",
+    "stock": "10",
+    "indentifiers": {
+      "brand": "Jordan",
+      "styleCode": "DM7866-200",
+      "model": "Air Jordan 1",
+      "eBayProductId": "11066000359"
+    },
+    "keyFeatures": [
+      {
+        "Upper Material": "Suede"
+      },
+      {
+        "Type": "Athletic"
+      },
+      {
+        "ShowShaftStyle": "Low Top"
+      },
+      {
+        "Style": "Sneaker"
+      },
+      {
+        "Product Line": "Air Jordan"
+      },
+      {
+        "Color": [
+          {
+            "name": "Green",
+            "hex": "#008000"
+          }
+        ]
+      },
+      {
+        "UsShoeSize": "11"
+      },
+      {
+        "Department": "Men"
+      }
+    ],
+    "additionalFeatures": [
+      {
+        "releaseDate": "20240929"
+      },
+      {
+        "nickname": "Medium Olive"
+      },
+      {
+        "fullmodel": "Travis Scott x Air Jordan 1 OG SP"
+      },
+      {
+        "manufactureColor": [
+          {
+            "name": "Medium Olive",
+            "hex": "#6e6e30"
+          },
+          {
+            "name": "Medium Black",
+            "hex": "#4d4d4d"
+          },
+          {
+            "name": "Medium Sail",
+            "hex": "#A5F2F3"
+          },
+          {
+            "name": "Medium Muslin",
+            "hex": "#E8E4C9"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Reebok BB4000 2 x Alien Romulus",
+    "category": "refurbished",
+    "subCategory": "djkfjdkj",
+    "price": "579.99",
+    "images": "./images/refurbished8.webp",
+    "description": [],
+    "quantity": "1",
+    "sizes": ["11"],
+    "condition": "New with box: A brand-new, unused, and unworn item (including handmade items) in the original ...",
+    "brand": "Jordan",
+    "showSaftStyle": "Low Top",
+    "styleCode": "DM7866-200",
+    "department": "Men",
+    "type": "Athletic",
+    "releaseYear": "2024",
+    "model": "Air Jordan1 Low",
+    "style": "Sneaker",
+    "silhouette": "Jordan 1 Retro Low",
+    "productLine": "Air Jordan",
+    "stock": "10"
+  },
+  {
+    "name": "Jordan 4 Retro Military Blue 2024",
+    "category": "refurbished",
+    "subCategory": "djkfjdkj",
+    "price": "579.99",
+    "images": "./images/refurbished9.webp",
+    "description": [],
+    "quantity": "1",
+    "sizes": ["11"],
+    "condition": "New with box: A brand-new, unused, and unworn item (including handmade items) in the original ...",
+    "brand": "Jordan",
+    "showSaftStyle": "Low Top",
+    "styleCode": "DM7866-200",
+    "department": "Men",
+    "type": "Athletic",
+    "releaseYear": "2024",
+    "model": "Air Jordan1 Low",
+    "style": "Sneaker",
+    "silhouette": "Jordan 1 Retro Low",
+    "productLine": "Air Jordan",
+    "stock": "10",
+    "indentifiers": {
+      "brand": "Jordan",
+      "styleCode": "DM7866-200",
+      "model": "Air Jordan 1",
+      "eBayProductId": "11066000359"
+    },
+    "keyFeatures": [
+      {
+        "Upper Material": "Suede"
+      },
+      {
+        "Type": "Athletic"
+      },
+      {
+        "ShowShaftStyle": "Low Top"
+      },
+      {
+        "Style": "Sneaker"
+      },
+      {
+        "Product Line": "Air Jordan"
+      },
+      {
+        "Color": [
+          {
+            "name": "Green",
+            "hex": "#008000"
+          }
+        ]
+      },
+      {
+        "UsShoeSize": "11"
+      },
+      {
+        "Department": "Men"
+      }
+    ],
+    "additionalFeatures": [
+      {
+        "releaseDate": "20240929"
+      },
+      {
+        "nickname": "Medium Olive"
+      },
+      {
+        "fullmodel": "Travis Scott x Air Jordan 1 OG SP"
+      },
+      {
+        "manufactureColor": [
+          {
+            "name": "Medium Olive",
+            "hex": "#6e6e30"
+          },
+          {
+            "name": "Medium Black",
+            "hex": "#4d4d4d"
+          },
+          {
+            "name": "Medium Sail",
+            "hex": "#A5F2F3"
+          },
+          {
+            "name": "Medium Muslin",
+            "hex": "#E8E4C9"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Jordan 1 Retro High OG Lost and Found",
+    "category": "refurbished",
+    "subCategory": "djkfjdkj",
+    "price": "579.99",
+    "images": "./images/refurbished10.webp",
+    "description": [],
+    "quantity": "1",
+    "sizes": ["10"],
+    "condition": "New with box: A brand-new, unused, and unworn item (including handmade items) in the original ...",
+    "brand": "Jordan",
+    "showSaftStyle": "Low Top",
+    "styleCode": "DM7866-200",
+    "department": "Men",
+    "type": "Athletic",
+    "releaseYear": "2024",
+    "model": "Air Jordan1 Low",
+    "style": "Sneaker",
+    "silhouette": "Jordan 1 Retro Low",
+    "productLine": "Air Jordan",
+    "stock": "10"
+  },
+  {
+    "name": "Size 11 - Air Jordan 4 Retro 2004 Classic Green - PRE OWNED",
+    "category": "free-shipping",
+    "subCategory": "djkfjdkj",
+    "category-type": "free-shipping",
+    "price": "579.99",
+    "description": [],
+    "images": "./images/free-shipping1.webp",
+    "quantity": "1",
+    "sizes": ["11"],
+    "condition": "New with box: A brand-new, unused, and unworn item (including handmade items) in the original ...",
+    "brand": "Jordan",
+    "showSaftStyle": "Low Top",
+    "styleCode": "DM7866-200",
+    "department": "Men",
+    "type": "Athletic",
+    "releaseYear": "2024",
+    "model": "Air Jordan1 Low",
+    "style": "Sneaker",
+    "silhouette": "Jordan 1 Retro Low",
+    "productLine": "Air Jordan",
+    "stock": "10",
+    "indentifiers": {
+      "brand": "Jordan",
+      "styleCode": "DM7866-200",
+      "model": "Air Jordan 1",
+      "eBayProductId": "11066000359"
+    },
+    "keyFeatures": [
+      {
+        "Upper Material": "Suede"
+      },
+      {
+        "Type": "Athletic"
+      },
+      {
+        "ShowShaftStyle": "Low Top"
+      },
+      {
+        "Style": "Sneaker"
+      },
+      {
+        "Product Line": "Air Jordan"
+      },
+      {
+        "Color": [
+          {
+            "name": "Green",
+            "hex": "#008000"
+          }
+        ]
+      },
+      {
+        "UsShoeSize": "11"
+      },
+      {
+        "Department": "Men"
+      }
+    ],
+    "additionalFeatures": [
+      {
+        "releaseDate": "20240929"
+      },
+      {
+        "nickname": "Medium Olive"
+      },
+      {
+        "fullmodel": "Travis Scott x Air Jordan 1 OG SP"
+      },
+      {
+        "manufactureColor": [
+          {
+            "name": "Medium Olive",
+            "hex": "#6e6e30"
+          },
+          {
+            "name": "Medium Black",
+            "hex": "#4d4d4d"
+          },
+          {
+            "name": "Medium Sail",
+            "hex": "#A5F2F3"
+          },
+          {
+            "name": "Medium Muslin",
+            "hex": "#E8E4C9"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Kobe 8 Protro September Drops",
+    "category": "free-shipping",
+    "subCategory": "djkfjdkj",
+    "category-type": "free-shipping",
+    "price": "579.99",
+    "description": [],
+    "images": "./images/free-shipping2.webp",
+    "quantity": "1",
+    "sizes": ["11"],
+    "condition": "New with box: A brand-new, unused, and unworn item (including handmade items) in the original ...",
+    "brand": "Jordan",
+    "showSaftStyle": "Low Top",
+    "styleCode": "DM7866-200",
+    "department": "Men",
+    "type": "Athletic",
+    "releaseYear": "2024",
+    "model": "Air Jordan1 Low",
+    "style": "Sneaker",
+    "silhouette": "Jordan 1 Retro Low",
+    "productLine": "Air Jordan",
+    "stock": "10"
+  },
+  {
+    "name": "Jordan 4 Retro White Thunder",
+    "category": "free-shipping",
+    "subCategory": "djkfjdkj",
+    "category-type": "free-shipping",
+    "price": "579.99",
+    "description": [],
+    "images": "./images/free-shipping3.webp",
+    "quantity": "1",
+    "sizes": ["11"],
+    "condition": "New with box: A brand-new, unused, and unworn item (including handmade items) in the original ...",
+    "brand": "Jordan",
+    "showSaftStyle": "Low Top",
+    "styleCode": "DM7866-200",
+    "department": "Men",
+    "type": "Athletic",
+    "releaseYear": "2024",
+    "model": "Air Jordan1 Low",
+    "style": "Sneaker",
+    "silhouette": "Jordan 1 Retro Low",
+    "productLine": "Air Jordan",
+    "stock": "10",
+    "indentifiers": {
+      "brand": "Jordan",
+      "styleCode": "DM7866-200",
+      "model": "Air Jordan 1",
+      "eBayProductId": "11066000359"
+    },
+    "keyFeatures": [
+      {
+        "Upper Material": "Suede"
+      },
+      {
+        "Type": "Athletic"
+      },
+      {
+        "ShowShaftStyle": "Low Top"
+      },
+      {
+        "Style": "Sneaker"
+      },
+      {
+        "Product Line": "Air Jordan"
+      },
+      {
+        "Color": [
+          {
+            "name": "Green",
+            "hex": "#008000"
+          }
+        ]
+      },
+      {
+        "UsShoeSize": "11"
+      },
+      {
+        "Department": "Men"
+      }
+    ],
+    "additionalFeatures": [
+      {
+        "releaseDate": "20240929"
+      },
+      {
+        "nickname": "Medium Olive"
+      },
+      {
+        "fullmodel": "Travis Scott x Air Jordan 1 OG SP"
+      },
+      {
+        "manufactureColor": [
+          {
+            "name": "Medium Olive",
+            "hex": "#6e6e30"
+          },
+          {
+            "name": "Medium Black",
+            "hex": "#4d4d4d"
+          },
+          {
+            "name": "Medium Sail",
+            "hex": "#A5F2F3"
+          },
+          {
+            "name": "Medium Muslin",
+            "hex": "#E8E4C9"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Jordan 4 Paris Olympics Wet Cement",
+    "category": "free-shipping",
+    "subCategory": "djkfjdkj",
+    "category-type": "free-shipping",
+    "price": "579.99",
+    "description": [],
+    "images": "./images/free-shipping4.webp",
+    "quantity": "1",
+    "sizes": ["11"],
+    "condition": "New with box: A brand-new, unused, and unworn item (including handmade items) in the original ...",
+    "brand": "Jordan",
+    "showSaftStyle": "Low Top",
+    "styleCode": "DM7866-200",
+    "department": "Men",
+    "type": "Athletic",
+    "releaseYear": "2024",
+    "model": "Air Jordan1 Low",
+    "style": "Sneaker",
+    "silhouette": "Jordan 1 Retro Low",
+    "productLine": "Air Jordan",
+    "stock": "10"
+  },
+  {
+    "name": "A Ma Maniére x Jordan 3 While You Were Sleeping WMNS",
+    "category": "free-shipping",
+    "subCategory": "djkfjdkj",
+    "price": "579.99",
+    "images": "./images/free-shipping5.webp",
+    "description": [],
+    "category-type": "free-shipping",
+    "quantity": "1",
+    "sizes": ["11"],
+    "condition": "New with box: A brand-new, unused, and unworn item (including handmade items) in the original ...",
+    "brand": "Jordan",
+    "showSaftStyle": "Low Top",
+    "styleCode": "DM7866-200",
+    "department": "Men",
+    "type": "Athletic",
+    "releaseYear": "2024",
+    "model": "Air Jordan1 Low",
+    "style": "Sneaker",
+    "silhouette": "Jordan 1 Retro Low",
+    "productLine": "Air Jordan",
+    "stock": "10",
+    "indentifiers": {
+      "brand": "Jordan",
+      "styleCode": "DM7866-200",
+      "model": "Air Jordan 1",
+      "eBayProductId": "11066000359"
+    },
+    "keyFeatures": [
+      {
+        "Upper Material": "Suede"
+      },
+      {
+        "Type": "Athletic"
+      },
+      {
+        "ShowShaftStyle": "Low Top"
+      },
+      {
+        "Style": "Sneaker"
+      },
+      {
+        "Product Line": "Air Jordan"
+      },
+      {
+        "Color": [
+          {
+            "name": "Green",
+            "hex": "#008000"
+          }
+        ]
+      },
+      {
+        "UsShoeSize": "11"
+      },
+      {
+        "Department": "Men"
+      }
+    ],
+    "additionalFeatures": [
+      {
+        "releaseDate": "20240929"
+      },
+      {
+        "nickname": "Medium Olive"
+      },
+      {
+        "fullmodel": "Travis Scott x Air Jordan 1 OG SP"
+      },
+      {
+        "manufactureColor": [
+          {
+            "name": "Medium Olive",
+            "hex": "#6e6e30"
+          },
+          {
+            "name": "Medium Black",
+            "hex": "#4d4d4d"
+          },
+          {
+            "name": "Medium Sail",
+            "hex": "#A5F2F3"
+          },
+          {
+            "name": "Medium Muslin",
+            "hex": "#E8E4C9"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Reebok BB4000 2 x Alien Romulus",
+    "category": "free-shipping",
+    "subCategory": "djkfjdkj",
+    "category-type": "free-shipping",
+    "price": "579.99",
+    "description": [],
+    "images": "./images/free-shipping6.webp",
+    "quantity": "1",
+    "sizes": ["11"],
+    "condition": "New with box: A brand-new, unused, and unworn item (including handmade items) in the original ...",
+    "brand": "Jordan",
+    "showSaftStyle": "Low Top",
+    "styleCode": "DM7866-200",
+    "department": "Men",
+    "type": "Athletic",
+    "releaseYear": "2024",
+    "model": "Air Jordan1 Low",
+    "style": "Sneaker",
+    "silhouette": "Jordan 1 Retro Low",
+    "productLine": "Air Jordan",
+    "stock": "10"
+  },
+  {
+    "name": "Jordan 4 Retro Military Blue 2024",
+    "category": "free-shipping",
+    "subCategory": "djkfjdkj",
+    "category-type": "free-shipping",
+    "price": "579.99",
+    "description": [],
+    "images": "./images/free-shipping7.webp",
+    "quantity": "1",
+    "sizes": ["12"],
+    "condition": "New with box: A brand-new, unused, and unworn item (including handmade items) in the original ...",
+    "brand": "Jordan",
+    "showSaftStyle": "Low Top",
+    "styleCode": "DM7866-200",
+    "department": "Men",
+    "type": "Athletic",
+    "releaseYear": "2024",
+    "model": "Air Jordan1 Low",
+    "style": "Sneaker",
+    "silhouette": "Jordan 1 Retro Low",
+    "productLine": "Air Jordan",
+    "stock": "10",
+    "indentifiers": {
+      "brand": "Jordan",
+      "styleCode": "DM7866-200",
+      "model": "Air Jordan 1",
+      "eBayProductId": "11066000359"
+    },
+    "keyFeatures": [
+      {
+        "Upper Material": "Suede"
+      },
+      {
+        "Type": "Athletic"
+      },
+      {
+        "ShowShaftStyle": "Low Top"
+      },
+      {
+        "Style": "Sneaker"
+      },
+      {
+        "Product Line": "Air Jordan"
+      },
+      {
+        "Color": [
+          {
+            "name": "Green",
+            "hex": "#008000"
+          }
+        ]
+      },
+      {
+        "UsShoeSize": "11"
+      },
+      {
+        "Department": "Men"
+      }
+    ],
+    "additionalFeatures": [
+      {
+        "releaseDate": "20240929"
+      },
+      {
+        "nickname": "Medium Olive"
+      },
+      {
+        "fullmodel": "Travis Scott x Air Jordan 1 OG SP"
+      },
+      {
+        "manufactureColor": [
+          {
+            "name": "Medium Olive",
+            "hex": "#6e6e30"
+          },
+          {
+            "name": "Medium Black",
+            "hex": "#4d4d4d"
+          },
+          {
+            "name": "Medium Sail",
+            "hex": "#A5F2F3"
+          },
+          {
+            "name": "Medium Muslin",
+            "hex": "#E8E4C9"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "2024 Nike Air Jordan 1 Retro Low OG SP Travis Scott Medium Olive DM7866-200 4-14",
+    "category": "athletic",
+    "subCategory": "djkfjdkj",
+    "price": "579.99",
+    "description": [],
+    "images": "./images/athletic1.webp",
+    "quantity": "1",
+    "sizes": ["11"],
+    "condition": "New with box: A brand-new, unused, and unworn item (including handmade items) in the original ...",
+    "brand": "Jordan",
+    "showSaftStyle": "Low Top",
+    "styleCode": "DM7866-200",
+    "department": "Men",
+    "type": "Athletic",
+    "releaseYear": "2024",
+    "model": "Air Jordan1 Low",
+    "style": "Sneaker",
+    "silhouette": "Jordan 1 Retro Low",
+    "productLine": "Air Jordan",
+    "stock": "10"
+  },
+  {
+    "name": "Size 11 - Travis Scott x Air Jordan 1 OG SP Low Medium Olive",
+    "category": "athletic",
+    "subCategory": "djkfjdkj",
+    "price": "579.99",
+    "images": "./images/athletic2.webp",
+    "description": [],
+    "quantity": "1",
+    "sizes": ["11"],
+    "condition": "New with box: A brand-new, unused, and unworn item (including handmade items) in the original ...",
+    "brand": "Jordan",
+    "showSaftStyle": "Low Top",
+    "styleCode": "DM7866-200",
+    "department": "Men",
+    "type": "Athletic",
+    "releaseYear": "2024",
+    "model": "Air Jordan1 Low",
+    "style": "Sneaker",
+    "silhouette": "Jordan 1 Retro Low",
+    "productLine": "Air Jordan",
+    "stock": "10",
+    "indentifiers": {
+      "brand": "Jordan",
+      "styleCode": "DM7866-200",
+      "model": "Air Jordan 1",
+      "eBayProductId": "11066000359"
+    },
+    "keyFeatures": [
+      {
+        "Upper Material": "Suede"
+      },
+      {
+        "Type": "Athletic"
+      },
+      {
+        "ShowShaftStyle": "Low Top"
+      },
+      {
+        "Style": "Sneaker"
+      },
+      {
+        "Product Line": "Air Jordan"
+      },
+      {
+        "Color": [
+          {
+            "name": "Green",
+            "hex": "#008000"
+          }
+        ]
+      },
+      {
+        "UsShoeSize": "11"
+      },
+      {
+        "Department": "Men"
+      }
+    ],
+    "additionalFeatures": [
+      {
+        "releaseDate": "20240929"
+      },
+      {
+        "nickname": "Medium Olive"
+      },
+      {
+        "fullmodel": "Travis Scott x Air Jordan 1 OG SP"
+      },
+      {
+        "manufactureColor": [
+          {
+            "name": "Medium Olive",
+            "hex": "#6e6e30"
+          },
+          {
+            "name": "Medium Black",
+            "hex": "#4d4d4d"
+          },
+          {
+            "name": "Medium Sail",
+            "hex": "#A5F2F3"
+          },
+          {
+            "name": "Medium Muslin",
+            "hex": "#E8E4C9"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "2024 Nike Air Jordan 1 Retro Low OG SP Travis Scott Medium Olive DM7866-200 4-14",
+    "category": "athletic",
+    "subCategory": "djkfjdkj",
+    "price": "579.99",
+    "description": [],
+    "images": "./images/athletic3.webp",
+    "quantity": "1",
+    "sizes": ["11"],
+    "condition": "New with box: A brand-new, unused, and unworn item (including handmade items) in the original ...",
+    "brand": "Jordan",
+    "showSaftStyle": "Low Top",
+    "styleCode": "DM7866-200",
+    "department": "Men",
+    "type": "Athletic",
+    "releaseYear": "2024",
+    "model": "Air Jordan1 Low",
+    "style": "Sneaker",
+    "silhouette": "Jordan 1 Retro Low",
+    "productLine": "Air Jordan",
+    "stock": "10"
+  },
+  {
+    "name": "Size 11 - Travis Scott x Air Jordan 1 OG SP Low Medium Olive",
+    "category": "athletic",
+    "subCategory": "djkfjdkj",
+    "price": "579.99",
+    "images": "./images/athletic4.webp",
+    "description": [],
+    "quantity": "1",
+    "sizes": ["11"],
+    "condition": "New with box: A brand-new, unused, and unworn item (including handmade items) in the original ...",
+    "brand": "Jordan",
+    "showSaftStyle": "Low Top",
+    "styleCode": "DM7866-200",
+    "department": "Men",
+    "type": "Athletic",
+    "releaseYear": "2024",
+    "model": "Air Jordan1 Low",
+    "style": "Sneaker",
+    "silhouette": "Jordan 1 Retro Low",
+    "productLine": "Air Jordan",
+    "stock": "10",
+    "indentifiers": {
+      "brand": "Jordan",
+      "styleCode": "DM7866-200",
+      "model": "Air Jordan 1",
+      "eBayProductId": "11066000359"
+    },
+    "keyFeatures": [
+      {
+        "Upper Material": "Suede"
+      },
+      {
+        "Type": "Athletic"
+      },
+      {
+        "ShowShaftStyle": "Low Top"
+      },
+      {
+        "Style": "Sneaker"
+      },
+      {
+        "Product Line": "Air Jordan"
+      },
+      {
+        "Color": [
+          {
+            "name": "Green",
+            "hex": "#008000"
+          }
+        ]
+      },
+      {
+        "UsShoeSize": "11"
+      },
+      {
+        "Department": "Men"
+      }
+    ],
+    "additionalFeatures": [
+      {
+        "releaseDate": "20240929"
+      },
+      {
+        "nickname": "Medium Olive"
+      },
+      {
+        "fullmodel": "Travis Scott x Air Jordan 1 OG SP"
+      },
+      {
+        "manufactureColor": [
+          {
+            "name": "Medium Olive",
+            "hex": "#6e6e30"
+          },
+          {
+            "name": "Medium Black",
+            "hex": "#4d4d4d"
+          },
+          {
+            "name": "Medium Sail",
+            "hex": "#A5F2F3"
+          },
+          {
+            "name": "Medium Muslin",
+            "hex": "#E8E4C9"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "2024 Nike Air Jordan 1 Retro Low OG SP Travis Scott Medium Olive DM7866-200 4-14",
+    "category": "athletic",
+    "subCategory": "djkfjdkj",
+    "price": "579.99",
+    "description": [],
+    "images": "./images/athletic5.webp",
+    "quantity": "1",
+    "sizes": ["11"],
+    "condition": "New with box: A brand-new, unused, and unworn item (including handmade items) in the original ...",
+    "brand": "Jordan",
+    "showSaftStyle": "Low Top",
+    "styleCode": "DM7866-200",
+    "department": "Men",
+    "type": "Athletic",
+    "releaseYear": "2024",
+    "model": "Air Jordan1 Low",
+    "style": "Sneaker",
+    "silhouette": "Jordan 1 Retro Low",
+    "productLine": "Air Jordan",
+    "stock": "10"
+  },
+  {
+    "name": "Size 11 - Travis Scott x Air Jordan 1 OG SP Low Medium Olive",
+    "category": "athletic",
+    "subCategory": "djkfjdkj",
+    "price": "579.99",
+    "images": "./images/athletic6.webp",
+    "description": [],
+    "quantity": "1",
+    "sizes": ["11"],
+    "condition": "New with box: A brand-new, unused, and unworn item (including handmade items) in the original ...",
+    "brand": "Jordan",
+    "showSaftStyle": "Low Top",
+    "styleCode": "DM7866-200",
+    "department": "Men",
+    "type": "Athletic",
+    "releaseYear": "2024",
+    "model": "Air Jordan1 Low",
+    "style": "Sneaker",
+    "silhouette": "Jordan 1 Retro Low",
+    "productLine": "Air Jordan",
+    "stock": "10",
+    "indentifiers": {
+      "brand": "Jordan",
+      "styleCode": "DM7866-200",
+      "model": "Air Jordan 1",
+      "eBayProductId": "11066000359"
+    },
+    "keyFeatures": [
+      {
+        "Upper Material": "Suede"
+      },
+      {
+        "Type": "Athletic"
+      },
+      {
+        "ShowShaftStyle": "Low Top"
+      },
+      {
+        "Style": "Sneaker"
+      },
+      {
+        "Product Line": "Air Jordan"
+      },
+      {
+        "Color": [
+          {
+            "name": "Green",
+            "hex": "#008000"
+          }
+        ]
+      },
+      {
+        "UsShoeSize": "11"
+      },
+      {
+        "Department": "Men"
+      }
+    ],
+    "additionalFeatures": [
+      {
+        "releaseDate": "20240929"
+      },
+      {
+        "nickname": "Medium Olive"
+      },
+      {
+        "fullmodel": "Travis Scott x Air Jordan 1 OG SP"
+      },
+      {
+        "manufactureColor": [
+          {
+            "name": "Medium Olive",
+            "hex": "#6e6e30"
+          },
+          {
+            "name": "Medium Black",
+            "hex": "#4d4d4d"
+          },
+          {
+            "name": "Medium Sail",
+            "hex": "#A5F2F3"
+          },
+          {
+            "name": "Medium Muslin",
+            "hex": "#E8E4C9"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "2024 Nike Air Jordan 1 Retro Low OG SP Travis Scott Medium Olive DM7866-200 4-14",
+    "category": "athletic",
+    "subCategory": "djkfjdkj",
+    "price": "579.99",
+    "description": [],
+    "images": "./images/athletic7.webp",
+    "quantity": "1",
+    "sizes": ["11"],
+    "condition": "New with box: A brand-new, unused, and unworn item (including handmade items) in the original ...",
+    "brand": "Jordan",
+    "showSaftStyle": "Low Top",
+    "styleCode": "DM7866-200",
+    "department": "Men",
+    "type": "Athletic",
+    "releaseYear": "2024",
+    "model": "Air Jordan1 Low",
+    "style": "Sneaker",
+    "silhouette": "Jordan 1 Retro Low",
+    "productLine": "Air Jordan",
+    "stock": "10"
+  },
+  {
+    "name": "Size 11 - Travis Scott x Air Jordan 1 OG SP Low Medium Olive",
+    "category": "athletic",
+    "subCategory": "djkfjdkj",
+    "price": "579.99",
+    "images": "./images/athletic8.webp",
+    "description": [],
+    "quantity": "1",
+    "sizes": ["11"],
+    "condition": "New with box: A brand-new, unused, and unworn item (including handmade items) in the original ...",
+    "brand": "Jordan",
+    "showSaftStyle": "Low Top",
+    "styleCode": "DM7866-200",
+    "department": "Men",
+    "type": "Athletic",
+    "releaseYear": "2024",
+    "model": "Air Jordan1 Low",
+    "style": "Sneaker",
+    "silhouette": "Jordan 1 Retro Low",
+    "productLine": "Air Jordan",
+    "stock": "10",
+    "indentifiers": {
+      "brand": "Jordan",
+      "styleCode": "DM7866-200",
+      "model": "Air Jordan 1",
+      "eBayProductId": "11066000359"
+    },
+    "keyFeatures": [
+      {
+        "Upper Material": "Suede"
+      },
+      {
+        "Type": "Athletic"
+      },
+      {
+        "ShowShaftStyle": "Low Top"
+      },
+      {
+        "Style": "Sneaker"
+      },
+      {
+        "Product Line": "Air Jordan"
+      },
+      {
+        "Color": [
+          {
+            "name": "Green",
+            "hex": "#008000"
+          }
+        ]
+      },
+      {
+        "UsShoeSize": "11"
+      },
+      {
+        "Department": "Men"
+      }
+    ],
+    "additionalFeatures": [
+      {
+        "releaseDate": "20240929"
+      },
+      {
+        "nickname": "Medium Olive"
+      },
+      {
+        "fullmodel": "Travis Scott x Air Jordan 1 OG SP"
+      },
+      {
+        "manufactureColor": [
+          {
+            "name": "Medium Olive",
+            "hex": "#6e6e30"
+          },
+          {
+            "name": "Medium Black",
+            "hex": "#4d4d4d"
+          },
+          {
+            "name": "Medium Sail",
+            "hex": "#A5F2F3"
+          },
+          {
+            "name": "Medium Muslin",
+            "hex": "#E8E4C9"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Travis Scott X Air Jordan 1 Low OG Medium Olive Size 12 DM7866-200 NEW PREORDER",
+    "category": "trending-sneakers",
+    "subCategory": "djkfjdkj",
+    "price": "579.99",
+    "description": [],
+    "images": "./images/trend1.webp",
+    "quantity": "1",
+    "sizes": ["11"],
+    "condition": "New with box: A brand-new, unused, and unworn item (including handmade items) in the original ...",
+    "brand": "Jordan",
+    "showSaftStyle": "Low Top",
+    "styleCode": "DM7866-200",
+    "department": "Men",
+    "type": "Athletic",
+    "releaseYear": "2024",
+    "model": "Air Jordan1 Low",
+    "style": "Sneaker",
+    "silhouette": "Jordan 1 Retro Low",
+    "productLine": "Air Jordan",
+    "stock": "10"
+  },
+  {
+    "name": "Brand new Jordan 1 Low Black Toe Size 7Y",
+    "category": "trending-sneakers",
+    "subCategory": "djkfjdkj",
+    "price": "579.99",
+    "images": "./images/trend2.webp",
+    "description": [],
+    "quantity": "1",
+    "sizes": ["11"],
+    "condition": "New with box: A brand-new, unused, and unworn item (including handmade items) in the original ...",
+    "brand": "Jordan",
+    "showSaftStyle": "Low Top",
+    "styleCode": "DM7866-200",
+    "department": "Men",
+    "type": "Athletic",
+    "releaseYear": "2024",
+    "model": "Air Jordan1 Low",
+    "style": "Sneaker",
+    "silhouette": "Jordan 1 Retro Low",
+    "productLine": "Air Jordan",
+    "stock": "10",
+    "indentifiers": {
+      "brand": "Jordan",
+      "styleCode": "DM7866-200",
+      "model": "Air Jordan 1",
+      "eBayProductId": "11066000359"
+    },
+    "keyFeatures": [
+      {
+        "Upper Material": "Suede"
+      },
+      {
+        "Type": "Athletic"
+      },
+      {
+        "ShowShaftStyle": "Low Top"
+      },
+      {
+        "Style": "Sneaker"
+      },
+      {
+        "Product Line": "Air Jordan"
+      },
+      {
+        "Color": [
+          {
+            "name": "Green",
+            "hex": "#008000"
+          }
+        ]
+      },
+      {
+        "UsShoeSize": "11"
+      },
+      {
+        "Department": "Men"
+      }
+    ],
+    "additionalFeatures": [
+      {
+        "releaseDate": "20240929"
+      },
+      {
+        "nickname": "Medium Olive"
+      },
+      {
+        "fullmodel": "Travis Scott x Air Jordan 1 OG SP"
+      },
+      {
+        "manufactureColor": [
+          {
+            "name": "Medium Olive",
+            "hex": "#6e6e30"
+          },
+          {
+            "name": "Medium Black",
+            "hex": "#4d4d4d"
+          },
+          {
+            "name": "Medium Sail",
+            "hex": "#A5F2F3"
+          },
+          {
+            "name": "Medium Muslin",
+            "hex": "#E8E4C9"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Brand new Jordan 1 Low Black Toe Size 7Y",
+    "category": "trending-sneakers",
+    "subCategory": "djkfjdkj",
+    "price": "579.99",
+    "images": "./images/trend3.webp",
+    "description": [],
+    "quantity": "1",
+    "sizes": ["11"],
+    "condition": "New with box: A brand-new, unused, and unworn item (including handmade items) in the original ...",
+    "brand": "Jordan",
+    "showSaftStyle": "Low Top",
+    "styleCode": "DM7866-200",
+    "department": "Men",
+    "type": "Athletic",
+    "releaseYear": "2024",
+    "model": "Air Jordan1 Low",
+    "style": "Sneaker",
+    "silhouette": "Jordan 1 Retro Low",
+    "productLine": "Air Jordan",
+    "stock": "10"
+  },
+  {
+    "name": "Size 9.5- Nike Off-White x Air Force 1 SP Leather Mid Pine Green SALE",
+    "category": "trending-sneakers",
+    "subCategory": "djkfjdkj",
+    "price": "579.99",
+    "images": "./images/trend4.webp",
+    "description": [],
+    "quantity": "1",
+    "sizes": ["11"],
+    "condition": "New with box: A brand-new, unused, and unworn item (including handmade items) in the original ...",
+    "brand": "Jordan",
+    "showSaftStyle": "Low Top",
+    "styleCode": "DM7866-200",
+    "department": "Men",
+    "type": "Athletic",
+    "releaseYear": "2024",
+    "model": "Air Jordan1 Low",
+    "style": "Sneaker",
+    "silhouette": "Jordan 1 Retro Low",
+    "productLine": "Air Jordan",
+    "stock": "10",
+    "indentifiers": {
+      "brand": "Jordan",
+      "styleCode": "DM7866-200",
+      "model": "Air Jordan 1",
+      "eBayProductId": "11066000359"
+    },
+    "keyFeatures": [
+      {
+        "Upper Material": "Suede"
+      },
+      {
+        "Type": "Athletic"
+      },
+      {
+        "ShowShaftStyle": "Low Top"
+      },
+      {
+        "Style": "Sneaker"
+      },
+      {
+        "Product Line": "Air Jordan"
+      },
+      {
+        "Color": [
+          {
+            "name": "Green",
+            "hex": "#008000"
+          }
+        ]
+      },
+      {
+        "UsShoeSize": "11"
+      },
+      {
+        "Department": "Men"
+      }
+    ],
+    "additionalFeatures": [
+      {
+        "releaseDate": "20240929"
+      },
+      {
+        "nickname": "Medium Olive"
+      },
+      {
+        "fullmodel": "Travis Scott x Air Jordan 1 OG SP"
+      },
+      {
+        "manufactureColor": [
+          {
+            "name": "Medium Olive",
+            "hex": "#6e6e30"
+          },
+          {
+            "name": "Medium Black",
+            "hex": "#4d4d4d"
+          },
+          {
+            "name": "Medium Sail",
+            "hex": "#A5F2F3"
+          },
+          {
+            "name": "Medium Muslin",
+            "hex": "#E8E4C9"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Size 10.5 - Travis Scott x Air Jordan 1 OG SP Low Medium Olive",
+    "category": "trending-sneakers",
+    "subCategory": "djkfjdkj",
+    "price": "579.99",
+    "images": "./images/trend5.webp",
+    "description": [],
+    "quantity": "1",
+    "sizes": ["11"],
+    "condition": "New with box: A brand-new, unused, and unworn item (including handmade items) in the original ...",
+    "brand": "Jordan",
+    "showSaftStyle": "Low Top",
+    "styleCode": "DM7866-200",
+    "department": "Men",
+    "type": "Athletic",
+    "releaseYear": "2024",
+    "model": "Air Jordan1 Low",
+    "style": "Sneaker",
+    "silhouette": "Jordan 1 Retro Low",
+    "productLine": "Air Jordan",
+    "stock": "10"
+  },
+  {
+    "name": "1203A566 100 ASICS Gel-Kayano 14 Kith Cream Scarab",
+    "category": "trending-sneakers",
+    "subCategory": "djkfjdkj",
+    "price": "579.99",
+    "images": "./images/trend6.webp",
+    "description": [],
+    "quantity": "1",
+    "sizes": ["11"],
+    "condition": "New with box: A brand-new, unused, and unworn item (including handmade items) in the original ...",
+    "brand": "Jordan",
+    "showSaftStyle": "Low Top",
+    "styleCode": "DM7866-200",
+    "department": "Men",
+    "type": "Athletic",
+    "releaseYear": "2024",
+    "model": "Air Jordan1 Low",
+    "style": "Sneaker",
+    "silhouette": "Jordan 1 Retro Low",
+    "productLine": "Air Jordan",
+    "stock": "10",
+    "indentifiers": {
+      "brand": "Jordan",
+      "styleCode": "DM7866-200",
+      "model": "Air Jordan 1",
+      "eBayProductId": "11066000359"
+    },
+    "keyFeatures": [
+      {
+        "Upper Material": "Suede"
+      },
+      {
+        "Type": "Athletic"
+      },
+      {
+        "ShowShaftStyle": "Low Top"
+      },
+      {
+        "Style": "Sneaker"
+      },
+      {
+        "Product Line": "Air Jordan"
+      },
+      {
+        "Color": [
+          {
+            "name": "Green",
+            "hex": "#008000"
+          }
+        ]
+      },
+      {
+        "UsShoeSize": "11"
+      },
+      {
+        "Department": "Men"
+      }
+    ],
+    "additionalFeatures": [
+      {
+        "releaseDate": "20240929"
+      },
+      {
+        "nickname": "Medium Olive"
+      },
+      {
+        "fullmodel": "Travis Scott x Air Jordan 1 OG SP"
+      },
+      {
+        "manufactureColor": [
+          {
+            "name": "Medium Olive",
+            "hex": "#6e6e30"
+          },
+          {
+            "name": "Medium Black",
+            "hex": "#4d4d4d"
+          },
+          {
+            "name": "Medium Sail",
+            "hex": "#A5F2F3"
+          },
+          {
+            "name": "Medium Muslin",
+            "hex": "#E8E4C9"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Air Jordan 3 Retro Black Cement Reimagined 2024 Style # DN3707-010 Size 12",
+    "category": "trending-sneakers",
+    "subCategory": "djkfjdkj",
+    "price": "579.99",
+    "images": "./images/trend7.webp",
+    "description": [],
+    "quantity": "1",
+    "sizes": ["11"],
+    "condition": "New with box: A brand-new, unused, and unworn item (including handmade items) in the original ...",
+    "brand": "Jordan",
+    "showSaftStyle": "Low Top",
+    "styleCode": "DM7866-200",
+    "department": "Men",
+    "type": "Athletic",
+    "releaseYear": "2024",
+    "model": "Air Jordan1 Low",
+    "style": "Sneaker",
+    "silhouette": "Jordan 1 Retro Low",
+    "productLine": "Air Jordan",
+    "stock": "10"
+  },
+  {
+    "name": "Size 11 - Air Jordan 4 Retro 2004 Classic Green - PRE OWNED",
+    "category": "trending-sneakers",
+    "subCategory": "djkfjdkj",
+    "price": "579.99",
+    "images": "./images/trend8.webp",
+    "description": [],
+    "quantity": "1",
+    "sizes": ["11"],
+    "condition": "New with box: A brand-new, unused, and unworn item (including handmade items) in the original ...",
+    "brand": "Jordan",
+    "showSaftStyle": "Low Top",
+    "styleCode": "DM7866-200",
+    "department": "Men",
+    "type": "Athletic",
+    "releaseYear": "2024",
+    "model": "Air Jordan1 Low",
+    "style": "Sneaker",
+    "silhouette": "Jordan 1 Retro Low",
+    "productLine": "Air Jordan",
+    "stock": "10",
+    "indentifiers": {
+      "brand": "Jordan",
+      "styleCode": "DM7866-200",
+      "model": "Air Jordan 1",
+      "eBayProductId": "11066000359"
+    },
+    "keyFeatures": [
+      {
+        "Upper Material": "Suede"
+      },
+      {
+        "Type": "Athletic"
+      },
+      {
+        "ShowShaftStyle": "Low Top"
+      },
+      {
+        "Style": "Sneaker"
+      },
+      {
+        "Product Line": "Air Jordan"
+      },
+      {
+        "Color": [
+          {
+            "name": "Green",
+            "hex": "#008000"
+          }
+        ]
+      },
+      {
+        "UsShoeSize": "11"
+      },
+      {
+        "Department": "Men"
+      }
+    ],
+    "additionalFeatures": [
+      {
+        "releaseDate": "20240929"
+      },
+      {
+        "nickname": "Medium Olive"
+      },
+      {
+        "fullmodel": "Travis Scott x Air Jordan 1 OG SP"
+      },
+      {
+        "manufactureColor": [
+          {
+            "name": "Medium Olive",
+            "hex": "#6e6e30"
+          },
+          {
+            "name": "Medium Black",
+            "hex": "#4d4d4d"
+          },
+          {
+            "name": "Medium Sail",
+            "hex": "#A5F2F3"
+          },
+          {
+            "name": "Medium Muslin",
+            "hex": "#E8E4C9"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "adidas ID1447 Samba OG 'Cream White Preloved Brown' Ship Now",
+    "category": "trending-sneakers",
+    "subCategory": "djkfjdkj",
+    "price": "579.99",
+    "images": "./images/trend9.webp",
+    "description": [],
+    "quantity": "1",
+    "sizes": ["11"],
+    "condition": "New with box: A brand-new, unused, and unworn item (including handmade items) in the original ...",
+    "brand": "Jordan",
+    "showSaftStyle": "Low Top",
+    "styleCode": "DM7866-200",
+    "department": "Men",
+    "type": "Athletic",
+    "releaseYear": "2024",
+    "model": "Air Jordan1 Low",
+    "style": "Sneaker",
+    "silhouette": "Jordan 1 Retro Low",
+    "productLine": "Air Jordan",
+    "stock": "10"
+  },
+  {
+    "name": "Size 11 - Air Jordan 4 Retro 2004 Classic Green - PRE OWNED",
+    "category": "trending-sneakers",
+    "subCategory": "djkfjdkj",
+    "price": "579.99",
+    "images": "./images/trend10.webp",
+    "description": [],
+    "quantity": "1",
+    "sizes": ["11"],
+    "condition": "New with box: A brand-new, unused, and unworn item (including handmade items) in the original ...",
+    "brand": "Jordan",
+    "showSaftStyle": "Low Top",
+    "styleCode": "DM7866-200",
+    "department": "Men",
+    "type": "Athletic",
+    "releaseYear": "2024",
+    "model": "Air Jordan1 Low",
+    "style": "Sneaker",
+    "silhouette": "Jordan 1 Retro Low",
+    "productLine": "Air Jordan",
+    "stock": "10",
+    "indentifiers": {
+      "brand": "Jordan",
+      "styleCode": "DM7866-200",
+      "model": "Air Jordan 1",
+      "eBayProductId": "11066000359"
+    },
+    "keyFeatures": [
+      {
+        "Upper Material": "Suede"
+      },
+      {
+        "Type": "Athletic"
+      },
+      {
+        "ShowShaftStyle": "Low Top"
+      },
+      {
+        "Style": "Sneaker"
+      },
+      {
+        "Product Line": "Air Jordan"
+      },
+      {
+        "Color": [
+          {
+            "name": "Green",
+            "hex": "#008000"
+          }
+        ]
+      },
+      {
+        "UsShoeSize": "11"
+      },
+      {
+        "Department": "Men"
+      }
+    ],
+    "additionalFeatures": [
+      {
+        "releaseDate": "20240929"
+      },
+      {
+        "nickname": "Medium Olive"
+      },
+      {
+        "fullmodel": "Travis Scott x Air Jordan 1 OG SP"
+      },
+      {
+        "manufactureColor": [
+          {
+            "name": "Medium Olive",
+            "hex": "#6e6e30"
+          },
+          {
+            "name": "Medium Black",
+            "hex": "#4d4d4d"
+          },
+          {
+            "name": "Medium Sail",
+            "hex": "#A5F2F3"
+          },
+          {
+            "name": "Medium Muslin",
+            "hex": "#E8E4C9"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "adidas ID1447 Samba OG 'Cream White Preloved Brown' Ship Now",
+    "category": "watch",
+    "subCategory": "djkfjdkj",
+    "price": "579.99",
+    "images": "./images/watch1.webp",
+    "description": [],
+    "quantity": "1",
+    "sizes": ["11"],
+    "condition": "New with box: A brand-new, unused, and unworn item (including handmade items) in the original ...",
+    "brand": "Jordan",
+    "showSaftStyle": "Low Top",
+    "styleCode": "DM7866-200",
+    "department": "Men",
+    "type": "Athletic",
+    "releaseYear": "2024",
+    "model": "Air Jordan1 Low",
+    "style": "Sneaker",
+    "silhouette": "Jordan 1 Retro Low",
+    "productLine": "Air Jordan",
+    "stock": "10"
+  },
+  {
+    "name": "Size 11 - Air Jordan 4 Retro 2004 Classic Green - PRE OWNED",
+    "category": "watch",
+    "subCategory": "djkfjdkj",
+    "price": "579.99",
+    "images": "./images/watch2.webp",
+    "description": [],
+    "quantity": "1",
+    "sizes": ["11"],
+    "condition": "New with box: A brand-new, unused, and unworn item (including handmade items) in the original ...",
+    "brand": "Jordan",
+    "showSaftStyle": "Low Top",
+    "styleCode": "DM7866-200",
+    "department": "Men",
+    "type": "Athletic",
+    "releaseYear": "2024",
+    "model": "Air Jordan1 Low",
+    "style": "Sneaker",
+    "silhouette": "Jordan 1 Retro Low",
+    "productLine": "Air Jordan",
+    "stock": "10",
+    "indentifiers": {
+      "brand": "Jordan",
+      "styleCode": "DM7866-200",
+      "model": "Air Jordan 1",
+      "eBayProductId": "11066000359"
+    },
+    "keyFeatures": [
+      {
+        "Upper Material": "Suede"
+      },
+      {
+        "Type": "Athletic"
+      },
+      {
+        "ShowShaftStyle": "Low Top"
+      },
+      {
+        "Style": "Sneaker"
+      },
+      {
+        "Product Line": "Air Jordan"
+      },
+      {
+        "Color": [
+          {
+            "name": "Green",
+            "hex": "#008000"
+          }
+        ]
+      },
+      {
+        "UsShoeSize": "11"
+      },
+      {
+        "Department": "Men"
+      }
+    ],
+    "additionalFeatures": [
+      {
+        "releaseDate": "20240929"
+      },
+      {
+        "nickname": "Medium Olive"
+      },
+      {
+        "fullmodel": "Travis Scott x Air Jordan 1 OG SP"
+      },
+      {
+        "manufactureColor": [
+          {
+            "name": "Medium Olive",
+            "hex": "#6e6e30"
+          },
+          {
+            "name": "Medium Black",
+            "hex": "#4d4d4d"
+          },
+          {
+            "name": "Medium Sail",
+            "hex": "#A5F2F3"
+          },
+          {
+            "name": "Medium Muslin",
+            "hex": "#E8E4C9"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "adidas ID1447 Samba OG 'Cream White Preloved Brown' Ship Now",
+    "category": "watch",
+    "subCategory": "djkfjdkj",
+    "price": "579.99",
+    "images": "./images/watch3.webp",
+    "description": [],
+    "quantity": "1",
+    "sizes": ["11"],
+    "condition": "New with box: A brand-new, unused, and unworn item (including handmade items) in the original ...",
+    "brand": "Jordan",
+    "showSaftStyle": "Low Top",
+    "styleCode": "DM7866-200",
+    "department": "Men",
+    "type": "Athletic",
+    "releaseYear": "2024",
+    "model": "Air Jordan1 Low",
+    "style": "Sneaker",
+    "silhouette": "Jordan 1 Retro Low",
+    "productLine": "Air Jordan",
+    "stock": "10"
+  },
+  {
+    "name": "Size 11 - Air Jordan 4 Retro 2004 Classic Green - PRE OWNED",
+    "category": "watch",
+    "subCategory": "djkfjdkj",
+    "price": "579.99",
+    "images": "./images/watch4.webp",
+    "description": [],
+    "quantity": "1",
+    "sizes": ["11"],
+    "condition": "New with box: A brand-new, unused, and unworn item (including handmade items) in the original ...",
+    "brand": "Jordan",
+    "showSaftStyle": "Low Top",
+    "styleCode": "DM7866-200",
+    "department": "Men",
+    "type": "Athletic",
+    "releaseYear": "2024",
+    "model": "Air Jordan1 Low",
+    "style": "Sneaker",
+    "silhouette": "Jordan 1 Retro Low",
+    "productLine": "Air Jordan",
+    "stock": "10",
+    "indentifiers": {
+      "brand": "Jordan",
+      "styleCode": "DM7866-200",
+      "model": "Air Jordan 1",
+      "eBayProductId": "11066000359"
+    },
+    "keyFeatures": [
+      {
+        "Upper Material": "Suede"
+      },
+      {
+        "Type": "Athletic"
+      },
+      {
+        "ShowShaftStyle": "Low Top"
+      },
+      {
+        "Style": "Sneaker"
+      },
+      {
+        "Product Line": "Air Jordan"
+      },
+      {
+        "Color": [
+          {
+            "name": "Green",
+            "hex": "#008000"
+          }
+        ]
+      },
+      {
+        "UsShoeSize": "11"
+      },
+      {
+        "Department": "Men"
+      }
+    ],
+    "additionalFeatures": [
+      {
+        "releaseDate": "20240929"
+      },
+      {
+        "nickname": "Medium Olive"
+      },
+      {
+        "fullmodel": "Travis Scott x Air Jordan 1 OG SP"
+      },
+      {
+        "manufactureColor": [
+          {
+            "name": "Medium Olive",
+            "hex": "#6e6e30"
+          },
+          {
+            "name": "Medium Black",
+            "hex": "#4d4d4d"
+          },
+          {
+            "name": "Medium Sail",
+            "hex": "#A5F2F3"
+          },
+          {
+            "name": "Medium Muslin",
+            "hex": "#E8E4C9"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "adidas ID1447 Samba OG 'Cream White Preloved Brown' Ship Now",
+    "category": "watch",
+    "subCategory": "djkfjdkj",
+    "price": "579.99",
+    "images": "./images/watch5.webp",
+    "description": [],
+    "quantity": "1",
+    "sizes": ["11"],
+    "condition": "New with box: A brand-new, unused, and unworn item (including handmade items) in the original ...",
+    "brand": "Jordan",
+    "showSaftStyle": "Low Top",
+    "styleCode": "DM7866-200",
+    "department": "Men",
+    "type": "Athletic",
+    "releaseYear": "2024",
+    "model": "Air Jordan1 Low",
+    "style": "Sneaker",
+    "silhouette": "Jordan 1 Retro Low",
+    "productLine": "Air Jordan",
+    "stock": "10"
+  },
+  {
+    "name": "Size 11 - Air Jordan 4 Retro 2004 Classic Green - PRE OWNED",
+    "category": "watch",
+    "subCategory": "djkfjdkj",
+    "price": "579.99",
+    "images": "./images/watch6.webp",
+    "description": [],
+    "quantity": "1",
+    "sizes": ["11"],
+    "condition": "New with box: A brand-new, unused, and unworn item (including handmade items) in the original ...",
+    "brand": "Jordan",
+    "showSaftStyle": "Low Top",
+    "styleCode": "DM7866-200",
+    "department": "Men",
+    "type": "Athletic",
+    "releaseYear": "2024",
+    "model": "Air Jordan1 Low",
+    "style": "Sneaker",
+    "silhouette": "Jordan 1 Retro Low",
+    "productLine": "Air Jordan",
+    "stock": "10",
+    "indentifiers": {
+      "brand": "Jordan",
+      "styleCode": "DM7866-200",
+      "model": "Air Jordan 1",
+      "eBayProductId": "11066000359"
+    },
+    "keyFeatures": [
+      {
+        "Upper Material": "Suede"
+      },
+      {
+        "Type": "Athletic"
+      },
+      {
+        "ShowShaftStyle": "Low Top"
+      },
+      {
+        "Style": "Sneaker"
+      },
+      {
+        "Product Line": "Air Jordan"
+      },
+      {
+        "Color": [
+          {
+            "name": "Green",
+            "hex": "#008000"
+          }
+        ]
+      },
+      {
+        "UsShoeSize": "11"
+      },
+      {
+        "Department": "Men"
+      }
+    ],
+    "additionalFeatures": [
+      {
+        "releaseDate": "20240929"
+      },
+      {
+        "nickname": "Medium Olive"
+      },
+      {
+        "fullmodel": "Travis Scott x Air Jordan 1 OG SP"
+      },
+      {
+        "manufactureColor": [
+          {
+            "name": "Medium Olive",
+            "hex": "#6e6e30"
+          },
+          {
+            "name": "Medium Black",
+            "hex": "#4d4d4d"
+          },
+          {
+            "name": "Medium Sail",
+            "hex": "#A5F2F3"
+          },
+          {
+            "name": "Medium Muslin",
+            "hex": "#E8E4C9"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "adidas ID1447 Samba OG 'Cream White Preloved Brown' Ship Now",
+    "category": "watch",
+    "subCategory": "djkfjdkj",
+    "price": "579.99",
+    "images": "./images/watch7.webp",
+    "description": [],
+    "quantity": "1",
+    "sizes": ["11"],
+    "condition": "New with box: A brand-new, unused, and unworn item (including handmade items) in the original ...",
+    "brand": "Jordan",
+    "showSaftStyle": "Low Top",
+    "styleCode": "DM7866-200",
+    "department": "Men",
+    "type": "Athletic",
+    "releaseYear": "2024",
+    "model": "Air Jordan1 Low",
+    "style": "Sneaker",
+    "silhouette": "Jordan 1 Retro Low",
+    "productLine": "Air Jordan",
+    "stock": "10"
+  },
+  {
+    "name": "Size 11 - Air Jordan 4 Retro 2004 Classic Green - PRE OWNED",
+    "category": "watch",
+    "subCategory": "djkfjdkj",
+    "price": "579.99",
+    "images": "./images/watch8.webp",
+    "description": [],
+    "quantity": "1",
+    "sizes": ["11"],
+    "condition": "New with box: A brand-new, unused, and unworn item (including handmade items) in the original ...",
+    "brand": "Jordan",
+    "showSaftStyle": "Low Top",
+    "styleCode": "DM7866-200",
+    "department": "Men",
+    "type": "Athletic",
+    "releaseYear": "2024",
+    "model": "Air Jordan1 Low",
+    "style": "Sneaker",
+    "silhouette": "Jordan 1 Retro Low",
+    "productLine": "Air Jordan",
+    "stock": "10",
+    "indentifiers": {
+      "brand": "Jordan",
+      "styleCode": "DM7866-200",
+      "model": "Air Jordan 1",
+      "eBayProductId": "11066000359"
+    },
+    "keyFeatures": [
+      {
+        "Upper Material": "Suede"
+      },
+      {
+        "Type": "Athletic"
+      },
+      {
+        "ShowShaftStyle": "Low Top"
+      },
+      {
+        "Style": "Sneaker"
+      },
+      {
+        "Product Line": "Air Jordan"
+      },
+      {
+        "Color": [
+          {
+            "name": "Green",
+            "hex": "#008000"
+          }
+        ]
+      },
+      {
+        "UsShoeSize": "11"
+      },
+      {
+        "Department": "Men"
+      }
+    ],
+    "additionalFeatures": [
+      {
+        "releaseDate": "20240929"
+      },
+      {
+        "nickname": "Medium Olive"
+      },
+      {
+        "fullmodel": "Travis Scott x Air Jordan 1 OG SP"
+      },
+      {
+        "manufactureColor": [
+          {
+            "name": "Medium Olive",
+            "hex": "#6e6e30"
+          },
+          {
+            "name": "Medium Black",
+            "hex": "#4d4d4d"
+          },
+          {
+            "name": "Medium Sail",
+            "hex": "#A5F2F3"
+          },
+          {
+            "name": "Medium Muslin",
+            "hex": "#E8E4C9"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "adidas ID1447 Samba OG 'Cream White Preloved Brown' Ship Now",
+    "category": "watch",
+    "subCategory": "djkfjdkj",
+    "price": "579.99",
+    "images": "./images/watch9.webp",
+    "description": [],
+    "quantity": "1",
+    "sizes": ["11"],
+    "condition": "New with box: A brand-new, unused, and unworn item (including handmade items) in the original ...",
+    "brand": "Jordan",
+    "showSaftStyle": "Low Top",
+    "styleCode": "DM7866-200",
+    "department": "Men",
+    "type": "Athletic",
+    "releaseYear": "2024",
+    "model": "Air Jordan1 Low",
+    "style": "Sneaker",
+    "silhouette": "Jordan 1 Retro Low",
+    "productLine": "Air Jordan",
+    "stock": "10"
+  },
+  {
+    "name": "Size 11 - Air Jordan 4 Retro 2004 Classic Green - PRE OWNED",
+    "category": "watch",
+    "subCategory": "djkfjdkj",
+    "price": "579.99",
+    "images": "./images/watch10.webp",
+    "description": [],
+    "quantity": "1",
+    "sizes": ["11"],
+    "condition": "New with box: A brand-new, unused, and unworn item (including handmade items) in the original ...",
+    "brand": "Jordan",
+    "showSaftStyle": "Low Top",
+    "styleCode": "DM7866-200",
+    "department": "Men",
+    "type": "Athletic",
+    "releaseYear": "2024",
+    "model": "Air Jordan1 Low",
+    "style": "Sneaker",
+    "silhouette": "Jordan 1 Retro Low",
+    "productLine": "Air Jordan",
+    "stock": "10",
+    "indentifiers": {
+      "brand": "Jordan",
+      "styleCode": "DM7866-200",
+      "model": "Air Jordan 1",
+      "eBayProductId": "11066000359"
+    },
+    "keyFeatures": [
+      {
+        "Upper Material": "Suede"
+      },
+      {
+        "Type": "Athletic"
+      },
+      {
+        "ShowShaftStyle": "Low Top"
+      },
+      {
+        "Style": "Sneaker"
+      },
+      {
+        "Product Line": "Air Jordan"
+      },
+      {
+        "Color": [
+          {
+            "name": "Green",
+            "hex": "#008000"
+          }
+        ]
+      },
+      {
+        "UsShoeSize": "11"
+      },
+      {
+        "Department": "Men"
+      }
+    ],
+    "additionalFeatures": [
+      {
+        "releaseDate": "20240929"
+      },
+      {
+        "nickname": "Medium Olive"
+      },
+      {
+        "fullmodel": "Travis Scott x Air Jordan 1 OG SP"
+      },
+      {
+        "manufactureColor": [
+          {
+            "name": "Medium Olive",
+            "hex": "#6e6e30"
+          },
+          {
+            "name": "Medium Black",
+            "hex": "#4d4d4d"
+          },
+          {
+            "name": "Medium Sail",
+            "hex": "#A5F2F3"
+          },
+          {
+            "name": "Medium Muslin",
+            "hex": "#E8E4C9"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Kobe 8 Protro September Drops",
+    "category": "trending-kicks",
+    "subCategory": "djkfjdkj",
+    "price": "579.99",
+    "images": "./images/trend-kicks1.webp",
+    "description": [],
+    "quantity": "1",
+    "sizes": ["11"],
+    "condition": "New with box: A brand-new, unused, and unworn item (including handmade items) in the original ...",
+    "brand": "Jordan",
+    "showSaftStyle": "Low Top",
+    "styleCode": "DM7866-200",
+    "department": "Men",
+    "type": "Athletic",
+    "releaseYear": "2024",
+    "model": "Air Jordan1 Low",
+    "style": "Sneaker",
+    "silhouette": "Jordan 1 Retro Low",
+    "productLine": "Air Jordan",
+    "stock": "10"
+  },
+  {
+    "name": "Jordan 4 Retro White Thunder",
+    "category": "trending-kicks",
+    "subCategory": "djkfjdkj",
+    "price": "579.99",
+    "images": "./images/trend-kicks2.webp",
+    "description": [],
+    "quantity": "1",
+    "sizes": ["11"],
+    "condition": "New with box: A brand-new, unused, and unworn item (including handmade items) in the original ...",
+    "brand": "Jordan",
+    "showSaftStyle": "Low Top",
+    "styleCode": "DM7866-200",
+    "department": "Men",
+    "type": "Athletic",
+    "releaseYear": "2024",
+    "model": "Air Jordan1 Low",
+    "style": "Sneaker",
+    "silhouette": "Jordan 1 Retro Low",
+    "productLine": "Air Jordan",
+    "stock": "10",
+    "indentifiers": {
+      "brand": "Jordan",
+      "styleCode": "DM7866-200",
+      "model": "Air Jordan 1",
+      "eBayProductId": "11066000359"
+    },
+    "keyFeatures": [
+      {
+        "Upper Material": "Suede"
+      },
+      {
+        "Type": "Athletic"
+      },
+      {
+        "ShowShaftStyle": "Low Top"
+      },
+      {
+        "Style": "Sneaker"
+      },
+      {
+        "Product Line": "Air Jordan"
+      },
+      {
+        "Color": [
+          {
+            "name": "Green",
+            "hex": "#008000"
+          }
+        ]
+      },
+      {
+        "UsShoeSize": "11"
+      },
+      {
+        "Department": "Men"
+      }
+    ],
+    "additionalFeatures": [
+      {
+        "releaseDate": "20240929"
+      },
+      {
+        "nickname": "Medium Olive"
+      },
+      {
+        "fullmodel": "Travis Scott x Air Jordan 1 OG SP"
+      },
+      {
+        "manufactureColor": [
+          {
+            "name": "Medium Olive",
+            "hex": "#6e6e30"
+          },
+          {
+            "name": "Medium Black",
+            "hex": "#4d4d4d"
+          },
+          {
+            "name": "Medium Sail",
+            "hex": "#A5F2F3"
+          },
+          {
+            "name": "Medium Muslin",
+            "hex": "#E8E4C9"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Jordan 4 Paris Olympics Wet Cement",
+    "category": "trending-kicks",
+    "subCategory": "djkfjdkj",
+    "price": "579.99",
+    "images": "./images/trend-kicks3.webp",
+    "description": [],
+    "quantity": "1",
+    "sizes": ["11"],
+    "condition": "New with box: A brand-new, unused, and unworn item (including handmade items) in the original ...",
+    "brand": "Nike",
+    "showSaftStyle": "Low Top",
+    "styleCode": "DM7866-200",
+    "department": "Men",
+    "type": "Athletic",
+    "releaseYear": "2024",
+    "model": "Air Jordan1 Low",
+    "style": "Sneaker",
+    "silhouette": "Jordan 1 Retro Low",
+    "productLine": "Air Jordan",
+    "stock": "10"
+  },
+  {
+    "name": "A Ma Maniére x Jordan 3 While You Were Sleeping WMNS",
+    "category": "trending-kicks",
+    "subCategory": "djkfjdkj",
+    "price": "579.99",
+    "images": "./images/trend-kicks4.webp",
+    "description": [],
+    "quantity": "1",
+    "sizes": ["11"],
+    "condition": "New with box: A brand-new, unused, and unworn item (including handmade items) in the original ...",
+    "brand": "Jordan",
+    "showSaftStyle": "Low Top",
+    "styleCode": "DM7866-200",
+    "department": "Men",
+    "type": "Athletic",
+    "releaseYear": "2024",
+    "model": "Air Jordan1 Low",
+    "style": "Sneaker",
+    "silhouette": "Jordan 1 Retro Low",
+    "productLine": "Air Jordan",
+    "stock": "10",
+    "indentifiers": {
+      "brand": "Jordan",
+      "styleCode": "DM7866-200",
+      "model": "Air Jordan 1",
+      "eBayProductId": "11066000359"
+    },
+    "keyFeatures": [
+      {
+        "Upper Material": "Suede"
+      },
+      {
+        "Type": "Athletic"
+      },
+      {
+        "ShowShaftStyle": "Low Top"
+      },
+      {
+        "Style": "Sneaker"
+      },
+      {
+        "Product Line": "Air Jordan"
+      },
+      {
+        "Color": [
+          {
+            "name": "Green",
+            "hex": "#008000"
+          }
+        ]
+      },
+      {
+        "UsShoeSize": "11"
+      },
+      {
+        "Department": "Men"
+      }
+    ],
+    "additionalFeatures": [
+      {
+        "releaseDate": "20240929"
+      },
+      {
+        "nickname": "Medium Olive"
+      },
+      {
+        "fullmodel": "Travis Scott x Air Jordan 1 OG SP"
+      },
+      {
+        "manufactureColor": [
+          {
+            "name": "Medium Olive",
+            "hex": "#6e6e30"
+          },
+          {
+            "name": "Medium Black",
+            "hex": "#4d4d4d"
+          },
+          {
+            "name": "Medium Sail",
+            "hex": "#A5F2F3"
+          },
+          {
+            "name": "Medium Muslin",
+            "hex": "#E8E4C9"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Reebok BB4000 2 x Alien Romulus",
+    "category": "trending-kicks",
+    "subCategory": "djkfjdkj",
+    "price": "579.99",
+    "images": "./images/trend-kicks5.webp",
+    "description": [],
+    "quantity": "1",
+    "sizes": ["11"],
+    "condition": "New with box: A brand-new, unused, and unworn item (including handmade items) in the original ...",
+    "brand": "Jordan",
+    "showSaftStyle": "Low Top",
+    "styleCode": "DM7866-200",
+    "department": "Men",
+    "type": "Athletic",
+    "releaseYear": "2024",
+    "model": "Air Jordan1 Low",
+    "style": "Sneaker",
+    "silhouette": "Jordan 1 Retro Low",
+    "productLine": "Air Jordan",
+    "stock": "10"
+  },
+  {
+    "name": "Jordan 4 Retro Military Blue 2024",
+    "category": "trending-kicks",
+    "subCategory": "djkfjdkj",
+    "price": "579.99",
+    "images": "./images/trend-kicks6.webp",
+    "description": [],
+    "quantity": "1",
+    "sizes": ["11"],
+    "condition": "New with box: A brand-new, unused, and unworn item (including handmade items) in the original ...",
+    "brand": "Jordan",
+    "showSaftStyle": "Low Top",
+    "styleCode": "DM7866-200",
+    "department": "Men",
+    "type": "Athletic",
+    "releaseYear": "2024",
+    "model": "Air Jordan1 Low",
+    "style": "Sneaker",
+    "silhouette": "Jordan 1 Retro Low",
+    "productLine": "Air Jordan",
+    "stock": "10",
+    "indentifiers": {
+      "brand": "Jordan",
+      "styleCode": "DM7866-200",
+      "model": "Air Jordan 1",
+      "eBayProductId": "11066000359"
+    },
+    "keyFeatures": [
+      {
+        "Upper Material": "Suede"
+      },
+      {
+        "Type": "Athletic"
+      },
+      {
+        "ShowShaftStyle": "Low Top"
+      },
+      {
+        "Style": "Sneaker"
+      },
+      {
+        "Product Line": "Air Jordan"
+      },
+      {
+        "Color": [
+          {
+            "name": "Green",
+            "hex": "#008000"
+          }
+        ]
+      },
+      {
+        "UsShoeSize": "11"
+      },
+      {
+        "Department": "Men"
+      }
+    ],
+    "additionalFeatures": [
+      {
+        "releaseDate": "20240929"
+      },
+      {
+        "nickname": "Medium Olive"
+      },
+      {
+        "fullmodel": "Travis Scott x Air Jordan 1 OG SP"
+      },
+      {
+        "manufactureColor": [
+          {
+            "name": "Medium Olive",
+            "hex": "#6e6e30"
+          },
+          {
+            "name": "Medium Black",
+            "hex": "#4d4d4d"
+          },
+          {
+            "name": "Medium Sail",
+            "hex": "#A5F2F3"
+          },
+          {
+            "name": "Medium Muslin",
+            "hex": "#E8E4C9"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Jordan 1 Retro High OG Lost and Found",
+    "category": "trending-kicks",
+    "subCategory": "djkfjdkj",
+    "price": "579.99",
+    "images": "./images/trend-kicks7.webp",
+    "description": [],
+    "quantity": "1",
+    "sizes": ["11"],
+    "condition": "New with box: A brand-new, unused, and unworn item (including handmade items) in the original ...",
+    "brand": "Jordan",
+    "showSaftStyle": "Low Top",
+    "styleCode": "DM7866-200",
+    "department": "Men",
+    "type": "Athletic",
+    "releaseYear": "2024",
+    "model": "Air Jordan1 Low",
+    "style": "Sneaker",
+    "silhouette": "Jordan 1 Retro Low",
+    "productLine": "Air Jordan",
+    "stock": "10"
+  },
+  {
+    "name": "Size 11 - Air Jordan 4 Retro 2004 Classic Green - PRE OWNED",
+    "category": "refurbished",
+    "subCategory": "djkfjdkj",
+    "price": "579.99",
+    "images": "./images/refurbished1.webp",
+    "description": [],
+    "quantity": "1",
+    "sizes": ["11"],
+    "condition": "New with box: A brand-new, unused, and unworn item (including handmade items) in the original ...",
+    "brand": "Jordan",
+    "showSaftStyle": "Low Top",
+    "styleCode": "DM7866-200",
+    "department": "Men",
+    "type": "Athletic",
+    "releaseYear": "2024",
+    "model": "Air Jordan1 Low",
+    "style": "Sneaker",
+    "silhouette": "Jordan 1 Retro Low",
+    "productLine": "Air Jordan",
+    "stock": "10",
+    "indentifiers": {
+      "brand": "Jordan",
+      "styleCode": "DM7866-200",
+      "model": "Air Jordan 1",
+      "eBayProductId": "11066000359"
+    },
+    "keyFeatures": [
+      {
+        "Upper Material": "Suede"
+      },
+      {
+        "Type": "Athletic"
+      },
+      {
+        "ShowShaftStyle": "Low Top"
+      },
+      {
+        "Style": "Sneaker"
+      },
+      {
+        "Product Line": "Air Jordan"
+      },
+      {
+        "Color": [
+          {
+            "name": "Green",
+            "hex": "#008000"
+          }
+        ]
+      },
+      {
+        "UsShoeSize": "11"
+      },
+      {
+        "Department": "Men"
+      }
+    ],
+    "additionalFeatures": [
+      {
+        "releaseDate": "20240929"
+      },
+      {
+        "nickname": "Medium Olive"
+      },
+      {
+        "fullmodel": "Travis Scott x Air Jordan 1 OG SP"
+      },
+      {
+        "manufactureColor": [
+          {
+            "name": "Medium Olive",
+            "hex": "#6e6e30"
+          },
+          {
+            "name": "Medium Black",
+            "hex": "#4d4d4d"
+          },
+          {
+            "name": "Medium Sail",
+            "hex": "#A5F2F3"
+          },
+          {
+            "name": "Medium Muslin",
+            "hex": "#E8E4C9"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "adidas ID1447 Samba OG 'Cream White Preloved Brown' Ship Now",
+    "category": "refurbished",
+    "subCategory": "djkfjdkj",
+    "price": "579.99",
+    "images": "./images/refurbished2.webp",
+    "description": [],
+    "quantity": "1",
+    "sizes": ["11"],
+    "condition": "New with box: A brand-new, unused, and unworn item (including handmade items) in the original ...",
+    "brand": "Jordan",
+    "showSaftStyle": "Low Top",
+    "styleCode": "DM7866-200",
+    "department": "Men",
+    "type": "Athletic",
+    "releaseYear": "2024",
+    "model": "Air Jordan1 Low",
+    "style": "Sneaker",
+    "silhouette": "Jordan 1 Retro Low",
+    "productLine": "Air Jordan",
+    "stock": "10"
+  },
+  {
+    "name": "Size 11 - Air Jordan 4 Retro 2004 Classic Green - PRE OWNED",
+    "category": "refurbished",
+    "subCategory": "djkfjdkj",
+    "price": "579.99",
+    "images": "./images/refurbished3.webp",
+    "description": [],
+    "quantity": "1",
+    "sizes": ["11"],
+    "condition": "New with box: A brand-new, unused, and unworn item (including handmade items) in the original ...",
+    "brand": "Jordan",
+    "showSaftStyle": "Low Top",
+    "styleCode": "DM7866-200",
+    "department": "Men",
+    "type": "Athletic",
+    "releaseYear": "2024",
+    "model": "Air Jordan1 Low",
+    "style": "Sneaker",
+    "silhouette": "Jordan 1 Retro Low",
+    "productLine": "Air Jordan",
+    "stock": "10",
+    "indentifiers": {
+      "brand": "Jordan",
+      "styleCode": "DM7866-200",
+      "model": "Air Jordan 1",
+      "eBayProductId": "11066000359"
+    },
+    "keyFeatures": [
+      {
+        "Upper Material": "Suede"
+      },
+      {
+        "Type": "Athletic"
+      },
+      {
+        "ShowShaftStyle": "Low Top"
+      },
+      {
+        "Style": "Sneaker"
+      },
+      {
+        "Product Line": "Air Jordan"
+      },
+      {
+        "Color": [
+          {
+            "name": "Green",
+            "hex": "#008000"
+          }
+        ]
+      },
+      {
+        "UsShoeSize": "11"
+      },
+      {
+        "Department": "Men"
+      }
+    ],
+    "additionalFeatures": [
+      {
+        "releaseDate": "20240929"
+      },
+      {
+        "nickname": "Medium Olive"
+      },
+      {
+        "fullmodel": "Travis Scott x Air Jordan 1 OG SP"
+      },
+      {
+        "manufactureColor": [
+          {
+            "name": "Medium Olive",
+            "hex": "#6e6e30"
+          },
+          {
+            "name": "Medium Black",
+            "hex": "#4d4d4d"
+          },
+          {
+            "name": "Medium Sail",
+            "hex": "#A5F2F3"
+          },
+          {
+            "name": "Medium Muslin",
+            "hex": "#E8E4C9"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Kobe 8 Protro September Drops",
+    "category": "refurbished",
+    "subCategory": "djkfjdkj",
+    "price": "579.99",
+    "images": "./images/refurbished4.webp",
+    "description": [],
+    "quantity": "1",
+    "sizes": ["11"],
+    "condition": "New with box: A brand-new, unused, and unworn item (including handmade items) in the original ...",
+    "brand": "Adidas",
+    "showSaftStyle": "Low Top",
+    "styleCode": "DM7866-200",
+    "department": "Men",
+    "type": "Athletic",
+    "releaseYear": "2024",
+    "model": "Air Jordan1 Low",
+    "style": "Sneaker",
+    "silhouette": "Jordan 1 Retro Low",
+    "productLine": "Air Jordan",
+    "stock": "10"
+  },
+  {
+    "name": "Jordan 4 Retro White Thunder",
+    "category": "refurbished",
+    "subCategory": "djkfjdkj",
+    "price": "579.99",
+    "images": "./images/refurbished5.webp",
+    "description": [],
+    "quantity": "1",
+    "sizes": ["13"],
+    "condition": "New with box: A brand-new, unused, and unworn item (including handmade items) in the original ...",
+    "brand": "Jordan",
+    "showSaftStyle": "Low Top",
+    "styleCode": "DM7866-200",
+    "department": "Men",
+    "type": "Athletic",
+    "releaseYear": "2024",
+    "model": "Air Jordan1 Low",
+    "style": "Sneaker",
+    "silhouette": "Jordan 1 Retro Low",
+    "productLine": "Air Jordan",
+    "stock": "10",
+    "indentifiers": {
+      "brand": "Jordan",
+      "styleCode": "DM7866-200",
+      "model": "Air Jordan 1",
+      "eBayProductId": "11066000359"
+    },
+    "keyFeatures": [
+      {
+        "Upper Material": "Suede"
+      },
+      {
+        "Type": "Athletic"
+      },
+      {
+        "ShowShaftStyle": "Low Top"
+      },
+      {
+        "Style": "Sneaker"
+      },
+      {
+        "Product Line": "Air Jordan"
+      },
+      {
+        "Color": [
+          {
+            "name": "Green",
+            "hex": "#008000"
+          }
+        ]
+      },
+      {
+        "UsShoeSize": "11"
+      },
+      {
+        "Department": "Men"
+      }
+    ],
+    "additionalFeatures": [
+      {
+        "releaseDate": "20240929"
+      },
+      {
+        "nickname": "Medium Olive"
+      },
+      {
+        "fullmodel": "Travis Scott x Air Jordan 1 OG SP"
+      },
+      {
+        "manufactureColor": [
+          {
+            "name": "Medium Olive",
+            "hex": "#6e6e30"
+          },
+          {
+            "name": "Medium Black",
+            "hex": "#4d4d4d"
+          },
+          {
+            "name": "Medium Sail",
+            "hex": "#A5F2F3"
+          },
+          {
+            "name": "Medium Muslin",
+            "hex": "#E8E4C9"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Jordan 4 Paris Olympics Wet Cement",
+    "category": "refurbished",
+    "subCategory": "djkfjdkj",
+    "price": "579.99",
+    "images": "./images/refurbished6.webp",
+    "description": [],
+    "quantity": "1",
+    "sizes": ["11"],
+    "condition": "New with box: A brand-new, unused, and unworn item (including handmade items) in the original ...",
+    "brand": "Jordan",
+    "showSaftStyle": "Low Top",
+    "styleCode": "DM7866-200",
+    "department": "Men",
+    "type": "Athletic",
+    "releaseYear": "2024",
+    "model": "Air Jordan1 Low",
+    "style": "Sneaker",
+    "silhouette": "Jordan 1 Retro Low",
+    "productLine": "Air Jordan",
+    "stock": "10"
+  },
+  {
+    "name": "A Ma Maniére x Jordan 3 While You Were Sleeping WMNS",
+    "category": "refurbished",
+    "subCategory": "djkfjdkj",
+    "price": "579.99",
+    "images": "./images/refurbished7.webp",
+    "description": [],
+    "quantity": "1",
+    "sizes": ["11"],
+    "condition": "New with box: A brand-new, unused, and unworn item (including handmade items) in the original ...",
+    "brand": "Jordan",
+    "showSaftStyle": "Low Top",
+    "styleCode": "DM7866-200",
+    "department": "Men",
+    "type": "Athletic",
+    "releaseYear": "2024",
+    "model": "Air Jordan1 Low",
+    "style": "Sneaker",
+    "silhouette": "Jordan 1 Retro Low",
+    "productLine": "Air Jordan",
+    "stock": "10",
+    "indentifiers": {
+      "brand": "Jordan",
+      "styleCode": "DM7866-200",
+      "model": "Air Jordan 1",
+      "eBayProductId": "11066000359"
+    },
+    "keyFeatures": [
+      {
+        "Upper Material": "Suede"
+      },
+      {
+        "Type": "Athletic"
+      },
+      {
+        "ShowShaftStyle": "Low Top"
+      },
+      {
+        "Style": "Sneaker"
+      },
+      {
+        "Product Line": "Air Jordan"
+      },
+      {
+        "Color": [
+          {
+            "name": "Green",
+            "hex": "#008000"
+          }
+        ]
+      },
+      {
+        "UsShoeSize": "11"
+      },
+      {
+        "Department": "Men"
+      }
+    ],
+    "additionalFeatures": [
+      {
+        "releaseDate": "20240929"
+      },
+      {
+        "nickname": "Medium Olive"
+      },
+      {
+        "fullmodel": "Travis Scott x Air Jordan 1 OG SP"
+      },
+      {
+        "manufactureColor": [
+          {
+            "name": "Medium Olive",
+            "hex": "#6e6e30"
+          },
+          {
+            "name": "Medium Black",
+            "hex": "#4d4d4d"
+          },
+          {
+            "name": "Medium Sail",
+            "hex": "#A5F2F3"
+          },
+          {
+            "name": "Medium Muslin",
+            "hex": "#E8E4C9"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Reebok BB4000 2 x Alien Romulus",
+    "category": "refurbished",
+    "subCategory": "djkfjdkj",
+    "price": "579.99",
+    "images": "./images/refurbished8.webp",
+    "description": [],
+    "quantity": "1",
+    "sizes": ["11"],
+    "condition": "New with box: A brand-new, unused, and unworn item (including handmade items) in the original ...",
+    "brand": "Jordan",
+    "showSaftStyle": "Low Top",
+    "styleCode": "DM7866-200",
+    "department": "Men",
+    "type": "Athletic",
+    "releaseYear": "2024",
+    "model": "Air Jordan1 Low",
+    "style": "Sneaker",
+    "silhouette": "Jordan 1 Retro Low",
+    "productLine": "Air Jordan",
+    "stock": "10"
+  },
+  {
+    "name": "Jordan 4 Retro Military Blue 2024",
+    "category": "refurbished",
+    "subCategory": "djkfjdkj",
+    "price": "579.99",
+    "images": "./images/refurbished9.webp",
+    "description": [],
+    "quantity": "1",
+    "sizes": ["11"],
+    "condition": "New with box: A brand-new, unused, and unworn item (including handmade items) in the original ...",
+    "brand": "Jordan",
+    "showSaftStyle": "Low Top",
+    "styleCode": "DM7866-200",
+    "department": "Men",
+    "type": "Athletic",
+    "releaseYear": "2024",
+    "model": "Air Jordan1 Low",
+    "style": "Sneaker",
+    "silhouette": "Jordan 1 Retro Low",
+    "productLine": "Air Jordan",
+    "stock": "10",
+    "indentifiers": {
+      "brand": "Jordan",
+      "styleCode": "DM7866-200",
+      "model": "Air Jordan 1",
+      "eBayProductId": "11066000359"
+    },
+    "keyFeatures": [
+      {
+        "Upper Material": "Suede"
+      },
+      {
+        "Type": "Athletic"
+      },
+      {
+        "ShowShaftStyle": "Low Top"
+      },
+      {
+        "Style": "Sneaker"
+      },
+      {
+        "Product Line": "Air Jordan"
+      },
+      {
+        "Color": [
+          {
+            "name": "Green",
+            "hex": "#008000"
+          }
+        ]
+      },
+      {
+        "UsShoeSize": "11"
+      },
+      {
+        "Department": "Men"
+      }
+    ],
+    "additionalFeatures": [
+      {
+        "releaseDate": "20240929"
+      },
+      {
+        "nickname": "Medium Olive"
+      },
+      {
+        "fullmodel": "Travis Scott x Air Jordan 1 OG SP"
+      },
+      {
+        "manufactureColor": [
+          {
+            "name": "Medium Olive",
+            "hex": "#6e6e30"
+          },
+          {
+            "name": "Medium Black",
+            "hex": "#4d4d4d"
+          },
+          {
+            "name": "Medium Sail",
+            "hex": "#A5F2F3"
+          },
+          {
+            "name": "Medium Muslin",
+            "hex": "#E8E4C9"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Jordan 1 Retro High OG Lost and Found",
+    "category": "refurbished",
+    "subCategory": "djkfjdkj",
+    "price": "579.99",
+    "images": "./images/refurbished10.webp",
+    "description": [],
+    "quantity": "1",
+    "sizes": ["10"],
+    "condition": "New with box: A brand-new, unused, and unworn item (including handmade items) in the original ...",
+    "brand": "Jordan",
+    "showSaftStyle": "Low Top",
+    "styleCode": "DM7866-200",
+    "department": "Men",
+    "type": "Athletic",
+    "releaseYear": "2024",
+    "model": "Air Jordan1 Low",
+    "style": "Sneaker",
+    "silhouette": "Jordan 1 Retro Low",
+    "productLine": "Air Jordan",
+    "stock": "10"
+  },
+  {
+    "name": "Size 11 - Air Jordan 4 Retro 2004 Classic Green - PRE OWNED",
+    "category": "free-shipping",
+    "subCategory": "djkfjdkj",
+    "category-type": "free-shipping",
+    "price": "579.99",
+    "description": [],
+    "images": "./images/free-shipping1.webp",
+    "quantity": "1",
+    "sizes": ["11"],
+    "condition": "New with box: A brand-new, unused, and unworn item (including handmade items) in the original ...",
+    "brand": "Jordan",
+    "showSaftStyle": "Low Top",
+    "styleCode": "DM7866-200",
+    "department": "Men",
+    "type": "Athletic",
+    "releaseYear": "2024",
+    "model": "Air Jordan1 Low",
+    "style": "Sneaker",
+    "silhouette": "Jordan 1 Retro Low",
+    "productLine": "Air Jordan",
+    "stock": "10",
+    "indentifiers": {
+      "brand": "Jordan",
+      "styleCode": "DM7866-200",
+      "model": "Air Jordan 1",
+      "eBayProductId": "11066000359"
+    },
+    "keyFeatures": [
+      {
+        "Upper Material": "Suede"
+      },
+      {
+        "Type": "Athletic"
+      },
+      {
+        "ShowShaftStyle": "Low Top"
+      },
+      {
+        "Style": "Sneaker"
+      },
+      {
+        "Product Line": "Air Jordan"
+      },
+      {
+        "Color": [
+          {
+            "name": "Green",
+            "hex": "#008000"
+          }
+        ]
+      },
+      {
+        "UsShoeSize": "11"
+      },
+      {
+        "Department": "Men"
+      }
+    ],
+    "additionalFeatures": [
+      {
+        "releaseDate": "20240929"
+      },
+      {
+        "nickname": "Medium Olive"
+      },
+      {
+        "fullmodel": "Travis Scott x Air Jordan 1 OG SP"
+      },
+      {
+        "manufactureColor": [
+          {
+            "name": "Medium Olive",
+            "hex": "#6e6e30"
+          },
+          {
+            "name": "Medium Black",
+            "hex": "#4d4d4d"
+          },
+          {
+            "name": "Medium Sail",
+            "hex": "#A5F2F3"
+          },
+          {
+            "name": "Medium Muslin",
+            "hex": "#E8E4C9"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Kobe 8 Protro September Drops",
+    "category": "free-shipping",
+    "subCategory": "djkfjdkj",
+    "category-type": "free-shipping",
+    "price": "579.99",
+    "description": [],
+    "images": "./images/free-shipping2.webp",
+    "quantity": "1",
+    "sizes": ["11"],
+    "condition": "New with box: A brand-new, unused, and unworn item (including handmade items) in the original ...",
+    "brand": "Jordan",
+    "showSaftStyle": "Low Top",
+    "styleCode": "DM7866-200",
+    "department": "Men",
+    "type": "Athletic",
+    "releaseYear": "2024",
+    "model": "Air Jordan1 Low",
+    "style": "Sneaker",
+    "silhouette": "Jordan 1 Retro Low",
+    "productLine": "Air Jordan",
+    "stock": "10"
+  },
+  {
+    "name": "Jordan 4 Retro White Thunder",
+    "category": "free-shipping",
+    "subCategory": "djkfjdkj",
+    "category-type": "free-shipping",
+    "price": "579.99",
+    "description": [],
+    "images": "./images/free-shipping3.webp",
+    "quantity": "1",
+    "sizes": ["11"],
+    "condition": "New with box: A brand-new, unused, and unworn item (including handmade items) in the original ...",
+    "brand": "Jordan",
+    "showSaftStyle": "Low Top",
+    "styleCode": "DM7866-200",
+    "department": "Men",
+    "type": "Athletic",
+    "releaseYear": "2024",
+    "model": "Air Jordan1 Low",
+    "style": "Sneaker",
+    "silhouette": "Jordan 1 Retro Low",
+    "productLine": "Air Jordan",
+    "stock": "10",
+    "indentifiers": {
+      "brand": "Jordan",
+      "styleCode": "DM7866-200",
+      "model": "Air Jordan 1",
+      "eBayProductId": "11066000359"
+    },
+    "keyFeatures": [
+      {
+        "Upper Material": "Suede"
+      },
+      {
+        "Type": "Athletic"
+      },
+      {
+        "ShowShaftStyle": "Low Top"
+      },
+      {
+        "Style": "Sneaker"
+      },
+      {
+        "Product Line": "Air Jordan"
+      },
+      {
+        "Color": [
+          {
+            "name": "Green",
+            "hex": "#008000"
+          }
+        ]
+      },
+      {
+        "UsShoeSize": "11"
+      },
+      {
+        "Department": "Men"
+      }
+    ],
+    "additionalFeatures": [
+      {
+        "releaseDate": "20240929"
+      },
+      {
+        "nickname": "Medium Olive"
+      },
+      {
+        "fullmodel": "Travis Scott x Air Jordan 1 OG SP"
+      },
+      {
+        "manufactureColor": [
+          {
+            "name": "Medium Olive",
+            "hex": "#6e6e30"
+          },
+          {
+            "name": "Medium Black",
+            "hex": "#4d4d4d"
+          },
+          {
+            "name": "Medium Sail",
+            "hex": "#A5F2F3"
+          },
+          {
+            "name": "Medium Muslin",
+            "hex": "#E8E4C9"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Jordan 4 Paris Olympics Wet Cement",
+    "category": "free-shipping",
+    "subCategory": "djkfjdkj",
+    "category-type": "free-shipping",
+    "price": "579.99",
+    "description": [],
+    "images": "./images/free-shipping4.webp",
+    "quantity": "1",
+    "sizes": ["11"],
+    "condition": "New with box: A brand-new, unused, and unworn item (including handmade items) in the original ...",
+    "brand": "Jordan",
+    "showSaftStyle": "Low Top",
+    "styleCode": "DM7866-200",
+    "department": "Men",
+    "type": "Athletic",
+    "releaseYear": "2024",
+    "model": "Air Jordan1 Low",
+    "style": "Sneaker",
+    "silhouette": "Jordan 1 Retro Low",
+    "productLine": "Air Jordan",
+    "stock": "10"
+  },
+  {
+    "name": "A Ma Maniére x Jordan 3 While You Were Sleeping WMNS",
+    "category": "free-shipping",
+    "subCategory": "djkfjdkj",
+    "price": "579.99",
+    "images": "./images/free-shipping5.webp",
+    "description": [],
+    "category-type": "free-shipping",
+    "quantity": "1",
+    "sizes": ["11"],
+    "condition": "New with box: A brand-new, unused, and unworn item (including handmade items) in the original ...",
+    "brand": "Jordan",
+    "showSaftStyle": "Low Top",
+    "styleCode": "DM7866-200",
+    "department": "Men",
+    "type": "Athletic",
+    "releaseYear": "2024",
+    "model": "Air Jordan1 Low",
+    "style": "Sneaker",
+    "silhouette": "Jordan 1 Retro Low",
+    "productLine": "Air Jordan",
+    "stock": "10",
+    "indentifiers": {
+      "brand": "Jordan",
+      "styleCode": "DM7866-200",
+      "model": "Air Jordan 1",
+      "eBayProductId": "11066000359"
+    },
+    "keyFeatures": [
+      {
+        "Upper Material": "Suede"
+      },
+      {
+        "Type": "Athletic"
+      },
+      {
+        "ShowShaftStyle": "Low Top"
+      },
+      {
+        "Style": "Sneaker"
+      },
+      {
+        "Product Line": "Air Jordan"
+      },
+      {
+        "Color": [
+          {
+            "name": "Green",
+            "hex": "#008000"
+          }
+        ]
+      },
+      {
+        "UsShoeSize": "11"
+      },
+      {
+        "Department": "Men"
+      }
+    ],
+    "additionalFeatures": [
+      {
+        "releaseDate": "20240929"
+      },
+      {
+        "nickname": "Medium Olive"
+      },
+      {
+        "fullmodel": "Travis Scott x Air Jordan 1 OG SP"
+      },
+      {
+        "manufactureColor": [
+          {
+            "name": "Medium Olive",
+            "hex": "#6e6e30"
+          },
+          {
+            "name": "Medium Black",
+            "hex": "#4d4d4d"
+          },
+          {
+            "name": "Medium Sail",
+            "hex": "#A5F2F3"
+          },
+          {
+            "name": "Medium Muslin",
+            "hex": "#E8E4C9"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Reebok BB4000 2 x Alien Romulus",
+    "category": "free-shipping",
+    "subCategory": "djkfjdkj",
+    "category-type": "free-shipping",
+    "price": "579.99",
+    "description": [],
+    "images": "./images/free-shipping6.webp",
+    "quantity": "1",
+    "sizes": ["11"],
+    "condition": "New with box: A brand-new, unused, and unworn item (including handmade items) in the original ...",
+    "brand": "Jordan",
+    "showSaftStyle": "Low Top",
+    "styleCode": "DM7866-200",
+    "department": "Men",
+    "type": "Athletic",
+    "releaseYear": "2024",
+    "model": "Air Jordan1 Low",
+    "style": "Sneaker",
+    "silhouette": "Jordan 1 Retro Low",
+    "productLine": "Air Jordan",
+    "stock": "10"
+  },
+  {
+    "name": "Jordan 4 Retro Military Blue 2024",
+    "category": "free-shipping",
+    "subCategory": "djkfjdkj",
+    "category-type": "free-shipping",
+    "price": "579.99",
+    "description": [],
+    "images": "./images/free-shipping7.webp",
+    "quantity": "1",
+    "sizes": ["12"],
+    "condition": "New with box: A brand-new, unused, and unworn item (including handmade items) in the original ...",
+    "brand": "Jordan",
+    "showSaftStyle": "Low Top",
+    "styleCode": "DM7866-200",
+    "department": "Men",
+    "type": "Athletic",
+    "releaseYear": "2024",
+    "model": "Air Jordan1 Low",
+    "style": "Sneaker",
+    "silhouette": "Jordan 1 Retro Low",
+    "productLine": "Air Jordan",
+    "stock": "10",
+    "indentifiers": {
+      "brand": "Jordan",
+      "styleCode": "DM7866-200",
+      "model": "Air Jordan 1",
+      "eBayProductId": "11066000359"
+    },
+    "keyFeatures": [
+      {
+        "Upper Material": "Suede"
+      },
+      {
+        "Type": "Athletic"
+      },
+      {
+        "ShowShaftStyle": "Low Top"
+      },
+      {
+        "Style": "Sneaker"
+      },
+      {
+        "Product Line": "Air Jordan"
+      },
+      {
+        "Color": [
+          {
+            "name": "Green",
+            "hex": "#008000"
+          }
+        ]
+      },
+      {
+        "UsShoeSize": "11"
+      },
+      {
+        "Department": "Men"
+      }
+    ],
+    "additionalFeatures": [
+      {
+        "releaseDate": "20240929"
+      },
+      {
+        "nickname": "Medium Olive"
+      },
+      {
+        "fullmodel": "Travis Scott x Air Jordan 1 OG SP"
+      },
+      {
+        "manufactureColor": [
+          {
+            "name": "Medium Olive",
+            "hex": "#6e6e30"
+          },
+          {
+            "name": "Medium Black",
+            "hex": "#4d4d4d"
+          },
+          {
+            "name": "Medium Sail",
+            "hex": "#A5F2F3"
+          },
+          {
+            "name": "Medium Muslin",
+            "hex": "#E8E4C9"
+          }
+        ]
+      }
+    ]
+  }
+]
