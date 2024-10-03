@@ -4,6 +4,7 @@ import Navbar from "./components/Navbar/Navbar";
 import Message from "./components/message/Message";
 import { useContext, useEffect } from "react";
 import { ContextSource } from "./contexts/AuthContext";
+import Footer from "./components/Footer/Footer";
 
 function App() {
   const { message, setMessage } = useContext(ContextSource);
@@ -20,6 +21,7 @@ function App() {
       {message && <Message text={message} />}
       <Navbar />
       <Outlet />
+      <Footer />
     </>
   );
 }

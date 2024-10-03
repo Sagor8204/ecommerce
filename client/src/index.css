@@ -2,47 +2,122 @@
 @tailwind components;
 @tailwind utilities;
 
-body {
-  box-sizing: border-box;
-  margin: 0px;
-  /* font-family: "Helvetica", "Arial", sans-serif; */
-}
-
 :root {
-  line-height: 1.5;
-  font-weight: 400;
-
-  font-synthesis: none;
-  text-rendering: optimizeLegibility;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-
-  --primary-color: #2e073f;
+  --primary-color: #382aef;
   --secondary-color: #7a1cac;
   /* --primary-color: #AD49E1; */
   --section-color: #ebd3f8;
+  --body-background-color: #fff;
+  --text-color: #191919;
+  --color-white: white;
+  --container-color: #f2f2f2;
 }
+
+body {
+  box-sizing: border-box;
+  margin: 0px;
+  font-family: "Helvetica", "Arial", sans-serif;
+  font-weight: 500;
+  background-color: var(--body-background-color);
+  color: var(--text-color);
+}
+
+.container_color {
+  background-color: var(--container-color);
+}
+
+/* reusable css */
+.section {
+  padding-top: 35px;
+  padding-bottom: 35px;
+}
+/* reusable css */
 
 /* slider css  */
 .swiper {
   width: 100%;
-  padding-top: 60px !important;
-  padding-bottom: 60px !important;
+  padding-top: 0px !important;
+  padding-bottom: 0px !important;
+  border-radius: 10px;
 }
 
-.swiper-slide {
-  width: 800px !important;
-  height: 600px !important;
-  margin-left: 20px;
-  margin-right: 20px;
+.mySwiperSlider .swiper-button-prev::after,
+.mySwiperSlider .swiper-button-next::after {
+  color: var(--color-white);
+  font-size: 35px !important;
 }
 
-.swiper-slide img {
-  display: block;
+.mySwiperSlider .swiper-pagination-bullet {
+  background-color: transparent !important;
+  border: 1px solid var(--color-white);
+}
+
+.mySwiperSlider .swiper-pagination-bullet-active {
+  background-color: var(--color-white) !important;
+}
+
+.mySwiperSmall .swiper-button-prev {
+  left: 0px !important;
+  overflow: visible;
+  background-color: var(--color-white);
+  width: 30px;
+  height: 30px;
+  box-shadow: 0px 1px 1px 2px rgb(151, 148, 148);
+  border-radius: 50%;
+  padding: 20px;
+}
+
+.mySwiperSmall .swiper-button-next {
+  right: 0px !important;
+  background-color: var(--color-white);
+  width: 30px;
+  height: 30px;
+  box-shadow: 0px 1px 1px 1px rgb(151, 148, 148);
+  border-radius: 50%;
+  padding: 20px;
+}
+
+.mySwiperSmall .swiper-button-next::after,
+.mySwiperSmall .swiper-button-prev::after {
+  font-size: 20px !important;
+  color: var(--text-color);
+}
+/* slider css  */
+
+.trending_kicks::before {
+  position: absolute;
+  content: "";
+  bottom: 0;
+  left: 0;
+  height: 2px;
   width: 100%;
-  height: 100%;
-  object-fit: cover;
-  border-radius: 50px;
+  background-color: var(--text-color);
+  opacity: 0;
+  transition: all 0.3s ease;
+}
+
+.trending_kicks:hover::before {
+  opacity: 1;
+}
+
+.trending_kicks:hover.container_color {
+  background-color: #c7c5c7;
+}
+
+.favorite_text::before {
+  position: absolute;
+  content: "";
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 2px;
+  background-color: var(--text-color);
+  transition: all 0.3s ease;
+  opacity: 0;
+}
+
+.favorites:hover .favorite_text::before {
+  opacity: 1;
 }
 
 .profileModal {
@@ -91,3 +166,49 @@ body {
 .order {
   background: black;
 }
+
+/* price range css */
+
+.min_max_price {
+  -moz-appearance: textfield;
+}
+
+.min_max_price::-webkit-outer-spin-button,
+.min_max_price::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+}
+
+.range_input {
+  position: relative;
+}
+
+.range_input input {
+  position: absolute;
+  top: -5px;
+  height: 5px;
+  width: 100%;
+  background: none;
+  pointer-events: none;
+  -webkit-appearance: none;
+}
+
+.range_input input[type="range"]::-webkit-slider-thumb {
+  width: 13px;
+  height: 13px;
+  -webkit-appearance: none;
+  background: black;
+  border-radius: 50%;
+  pointer-events: auto;
+}
+
+.range_input input[type="range"]::-moz-range-thumb {
+  width: 13px;
+  height: 13px;
+  -moz-appearance: none;
+  background: black;
+  border-radius: 50%;
+  pointer-events: auto;
+  border: none;
+}
+
+/* price range css */

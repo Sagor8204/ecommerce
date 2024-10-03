@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useState } from "react";
 import { NavLink } from "react-router-dom";
 import Logo from "../../assets/logo.png";
 import { IoSearch } from "react-icons/io5";
@@ -9,9 +9,16 @@ import ProfileModal from "./ProfileModal";
 
 const Navbar = () => {
   const { user } = useAuth();
+  const [open, setOpen] = useState(false);
+
+  // const handleOverlayClick = (e) => {
+  //   if (e.target === e.currentTarget) {
+  //     setOpen(false);
+  //   }
+  // };
 
   return (
-    <div className="fixed top-0 left-0 w-full z-50 bg-white py-2 font-semibold border-b border-b-gray-600">
+    <div className="fixed top-0 left-0 right-0 z-50 bg-white py-2 font-semibold border-b border-b-gray-600">
       <div className="flex items-center justify-around">
         <div>
           <NavLink to={"/"}>
@@ -38,7 +45,7 @@ const Navbar = () => {
             <GrCart className="text-[23px]" />
           </NavLink>
           {user?.id ? (
-            <ProfileModal user={user} />
+            <ProfileModal open={open} setOpen={setOpen} user={user} />
           ) : (
             <div className="flex items-center justify-around md:gap-5 gap-2">
               <NavLink to={"/login"}>

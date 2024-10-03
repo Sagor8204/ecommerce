@@ -1,25 +1,10 @@
-import axios from "axios";
-import React, { useEffect, useRef, useState } from "react";
+import React, { useState } from "react";
 import { FaCaretDown } from "react-icons/fa";
 import { Link, useNavigate } from "react-router-dom";
 import axiosSource from "../Axios/axios";
 
-const ProfileModal = ({ user }) => {
-  const [open, setOpen] = useState(false);
-  const modalRef = useRef(null);
+const ProfileModal = ({ open, setOpen, user }) => {
   const navigate = useNavigate();
-
-  useEffect(() => {
-    let handler = (e) => {
-      if (!modalRef.current.contains(e.target)) {
-        setOpen(false);
-      }
-    };
-    document.removeEventListener("mousedown", handler);
-    return () => {
-      document.addEventListener("mousedown", handler);
-    };
-  });
 
   // logout function
   const logout = () => {
@@ -42,18 +27,17 @@ const ProfileModal = ({ user }) => {
   };
 
   return (
-    <div
-      className="flex items-center gap-10 relative"
-      onClick={() => setOpen(true)}
-    >
-      <div className="border border-gray-500 rounded-full px-4 py-[2px] cursor-pointer hover:border-2 hover:border-gray-400 flex items-center gap-1 ease-in-out duration-150">
+    <div className="flex items-center gap-10 relative">
+      <div
+        onClick={() => setOpen(!open)}
+        className="border border-gray-500 rounded-full px-4 py-[2px] cursor-pointer hover:border-2 hover:border-gray-400 flex items-center gap-1 ease-in-out duration-150"
+      >
         <span>{user.username}</span>
         <FaCaretDown />
       </div>
 
       {open && (
         <div
-          ref={modalRef}
           className={`${
             open ? "modal_active" : "modal_inactive"
           } profileModal absolute -right-10 top-[59px] bg-white z-50 rounded-md p-3 origin-left border border-gray-400`}
