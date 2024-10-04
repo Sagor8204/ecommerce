@@ -38,9 +38,7 @@ app.get("/", (req, res) => {
 
 // database connection
 mongoose
-  .connect(
-    "mongodb+srv://sagor:5qOitk7PZsIkGycl@cluster0.vdm3a.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
-  )
+  .connect(process.env.MONGODB_URL)
   .then(() => {
     console.log("Connected database!");
   })
